@@ -2,6 +2,10 @@
 
 O produtor pede o evento, vê o conflito de data e só o responsável designado consegue aceitar. A montagem do palco fica no mesmo registro.
 
+Repositório: https://github.com/jrjesse/revloop-event-hub
+
+Os cinco testes do núcleo rodam em [GitHub Actions](https://github.com/jrjesse/revloop-event-hub/actions). O `fly.toml` está pronto para publicar a demo; falta um token da Fly neste ambiente.
+
 ## O problema
 
 A data vive numa planilha, o “pode confirmar” vive numa mensagem e o mapa do palco vive na cabeça de quem chegou primeiro. A Revloop junta pedido, conflito, decisão e montagem num hub.
