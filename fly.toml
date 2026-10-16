@@ -1,0 +1,27 @@
+app = "revloop-event-hub"
+primary_region = "gru"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  NODE_ENV = "production"
+  HUB_ALLOW_LOCAL_DEV = "true"
+  HUB_LEDGER_PATH = "/data/hub-ledger.json"
+  HUB_SESSION_KEY_PATH = "/data/hub-session.key"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[mounts]]
+  source = "hub_data"
+  destination = "/data"
+
+[[vm]]
+  cpu_kind = "shared"
+  cpus = 1
+  memory = "512mb"

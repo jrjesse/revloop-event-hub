@@ -1,0 +1,4367 @@
+{
+  "events": [
+    {
+      "id": "evt-muq4s6xm-qqio",
+      "title": "Revloop Meetup SP #14: Arquitetura de Dados de Receita (Cópia)",
+      "type": "meetup",
+      "targetAudience": "Engenheiros de Dados, Líderes de RevOps e Arquitetos de Solução",
+      "objective": "Fortalecer a comunidade técnica de RevOps em São Paulo através de palestras práticas sobre integração de CRM, ERP e Data Lakehouse.",
+      "designatedOwnerName": "Jesse Ribeiro",
+      "designatedOwnerEmail": "jr.jesse@revloop.com.br",
+      "requestedByName": "Jesse Ribeiro",
+      "requestedByEmail": "jr.jesse@revloop.com.br",
+      "createdAt": "2026-10-01T22:53:54.586Z",
+      "updatedAt": "2026-10-01T22:53:54.586Z",
+      "startDate": "2026-10-31T22:53",
+      "endDate": "2026-11-01T02:53",
+      "format": "presencial",
+      "location": "Cubo Itaú - 5º Andar, Alameda Vicente Pinzon, 54 - Vila Olímpia, São Paulo - SP",
+      "budget": 12000,
+      "spentBudget": 0,
+      "estimatedAttendees": 100,
+      "suppliers": [
+        "Cubo Itaú Eventos",
+        "Choperia & Pizza Artesanal SP",
+        "EcoStickers Brasil"
+      ],
+      "status": "solicitado",
+      "health": "atencao",
+      "policyComplianceScore": 0,
+      "notes": "Evento com taxa de presença de 92%. NPS de satisfação dos participantes foi 96. Excelente modelo para duplicação para os próximos meetups.",
+      "slackChannel": "#meetups-revloop-sp",
+      "driveFolderUrl": "https://drive.google.com/corp/revloop/meetup-sp-14-assets",
+      "notionPlaybookUrl": "https://notion.so/revloop/playbook-meetups-e-comunidades",
+      "milestones": [
+        {
+          "id": "m-clone-1790895234586-0",
+          "title": "Reserva do Auditório do Cubo Itaú",
+          "dueDate": "2026-10-31",
+          "completed": false,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-clone-1790895234586-1",
+          "title": "Chamada de Palestrantes (Call for Papers)",
+          "dueDate": "2026-10-31",
+          "completed": false,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "divulgacao"
+        },
+        {
+          "id": "m-clone-1790895234586-2",
+          "title": "Execução do Meetup e Gravação das Palestras",
+          "dueDate": "2026-10-31",
+          "completed": false,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "operacao"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "t-clone-1790895234586-0",
+          "title": "Compra de chopp artesanal e pizzas para networking",
+          "category": "fornecedores",
+          "assignedTo": "Jesse Ribeiro",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-31",
+          "priority": "media"
+        },
+        {
+          "id": "t-clone-1790895234586-1",
+          "title": "Publicação dos vídeos das palestras no YouTube do Revloop",
+          "category": "marketing",
+          "assignedTo": "Beatriz Fonseca",
+          "assignedEmail": "beatriz.fonseca@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-31",
+          "priority": "baixa"
+        }
+      ],
+      "policyChecklist": [
+        {
+          "id": "p-clone-1790895234586-0",
+          "category": "aprovacoes_gerais",
+          "title": "Aprovação de Alçada de Meetup",
+          "description": "Dentro do limite pré-aprovado de R$ 15k para eventos de comunidade",
+          "completed": false,
+          "required": true
+        },
+        {
+          "id": "p-clone-1790895234586-1",
+          "category": "acessibilidade",
+          "title": "Local 100% Acessível no Cubo",
+          "description": "Acesso por elevadores e assentos prioritários",
+          "completed": false,
+          "required": true
+        },
+        {
+          "id": "p-clone-1790895234586-2",
+          "category": "swag_brindes",
+          "title": "Stickers e Ecobags Recicladas",
+          "description": "Itens certificados ecológicos",
+          "completed": false,
+          "required": true
+        },
+        {
+          "id": "p-clone-1790895234586-3",
+          "category": "avaliacao_fornecedores",
+          "title": "Nota Fiscal e Checagem Sanitária",
+          "description": "Fornecedor de alimentos certificado",
+          "completed": false,
+          "required": true
+        },
+        {
+          "id": "p-clone-1790895234586-4",
+          "category": "privacidade_lgpd",
+          "title": "Opt-in de Imagem no Sympla/Eventbrite",
+          "description": "Aviso sobre filmagens do evento público",
+          "completed": false,
+          "required": true
+        },
+        {
+          "id": "p-clone-1790895234586-5",
+          "category": "comunicacoes",
+          "title": "Divulgação nas redes do Cubo e Revloop",
+          "description": "Divulgação orgânica em grupos de tecnologia",
+          "completed": false,
+          "required": false
+        }
+      ],
+      "comments": [
+        {
+          "id": "c-1790895234586",
+          "authorName": "Jesse Ribeiro",
+          "authorEmail": "jr.jesse@revloop.com.br",
+          "authorRole": "Coordenador de Eventos & Tech",
+          "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+          "content": "Evento duplicado a partir de 'Revloop Meetup SP #14: Arquitetura de Dados de Receita' (ID evt-2026-006). Pronto para revisão e aprovação.",
+          "createdAt": "2026-10-01T22:53:54.586Z"
+        }
+      ],
+      "resources": [
+        {
+          "id": "r-601",
+          "type": "drive",
+          "title": "Fotos e Gravações em Alta Resolução",
+          "url": "https://drive.google.com/corp/revloop/meetup-14-midia",
+          "metadata": "Google Drive"
+        },
+        {
+          "id": "r-602",
+          "type": "slack",
+          "title": "Canal #meetups-revloop-sp",
+          "url": "https://revloop.slack.com/archives/C07MEETUP",
+          "metadata": "Slack"
+        },
+        {
+          "id": "r-603",
+          "type": "notion",
+          "title": "Playbook: Organização de Meetups Técnicos",
+          "url": "https://notion.so/revloop/playbook-meetups-e-comunidades",
+          "metadata": "Notion"
+        }
+      ],
+      "activities": [
+        {
+          "id": "act-1790895234586",
+          "timestamp": "2026-10-01T22:53:54.586Z",
+          "actorName": "Jesse Ribeiro",
+          "actorEmail": "jr.jesse@revloop.com.br",
+          "action": "Evento Duplicado",
+          "details": "Duplicado com base no evento histórico 'Revloop Meetup SP #14: Arquitetura de Dados de Receita'.",
+          "category": "status"
+        }
+      ]
+    },
+    {
+      "id": "evt-2026-001",
+      "title": "Revloop Summit 2026: The Future of Revenue Operations",
+      "type": "conferencia",
+      "targetAudience": "CROs, VPs de Vendas, Líderes de RevOps e Operações Comerciais Enterprise",
+      "objective": "Consolidar a liderança de marca do Revloop.com.br no mercado nacional, gerar 250+ MQLs qualificados e estreitar laços com contas estratégicas.",
+      "designatedOwnerName": "Clara Silveira",
+      "designatedOwnerEmail": "clara.silveira@revloop.com.br",
+      "requestedByName": "Lucas Mendes",
+      "requestedByEmail": "lucas.mendes@revloop.com.br",
+      "createdAt": "2026-09-12T10:00:00Z",
+      "updatedAt": "2026-10-01T23:45:38.115Z",
+      "startDate": "2026-11-19T08:30:00",
+      "endDate": "2026-11-19T18:30:00",
+      "format": "presencial",
+      "location": "WTC Events Center, Av. das Nações Unidas, 12551 - Brooklin Novo, São Paulo - SP",
+      "budget": 85000,
+      "spentBudget": 48200,
+      "estimatedAttendees": 300,
+      "suppliers": [
+        "Espaço WTC Eventos",
+        "R3 Audiovisual & Streaming",
+        "Buffet Fasano Corporativo",
+        "EcoSwag Brasil (Brindes Sustentáveis)",
+        "SecurityCorp Segurança e Recepção"
+      ],
+      "status": "em_planejamento",
+      "health": "saudavel",
+      "policyComplianceScore": 92,
+      "notes": "Keynotes confirmados: CRO do Nubank e VP de Growth da Loft. Credenciamento com reconhecimento por QR Code integrado ao app Revloop.",
+      "slackChannel": "#summit-revloop-2026",
+      "driveFolderUrl": "https://drive.google.com/corp/revloop/summit-2026-briefing-e-midia",
+      "notionPlaybookUrl": "https://notion.so/revloop/playbook-grandes-conferencias-v3",
+      "calendarEventId": "cal-wtc-summit-2026",
+      "milestones": [
+        {
+          "id": "m-1",
+          "title": "Aprovação Executiva e Assinatura do Contrato do Espaço",
+          "dueDate": "2026-09-25",
+          "completed": true,
+          "ownerName": "Clara Silveira",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-2",
+          "title": "Lançamento da Landing Page de Inscrições e Early Bird",
+          "dueDate": "2026-10-05",
+          "completed": true,
+          "ownerName": "Lucas Mendes",
+          "phase": "divulgacao"
+        },
+        {
+          "id": "m-3",
+          "title": "Homologação Final da Grade de Palestrantes e Keynotes",
+          "dueDate": "2026-10-20",
+          "completed": false,
+          "ownerName": "Beatriz Fonseca",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-4",
+          "title": "Ensaio Técnico de Transmissão e Run-of-Show com Equipe A/V",
+          "dueDate": "2026-11-12",
+          "completed": false,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "operacao"
+        },
+        {
+          "id": "m-5",
+          "title": "Disparo de Relatório de ROI e Agradecimento Pós-Evento",
+          "dueDate": "2026-11-23",
+          "completed": false,
+          "ownerName": "Lucas Mendes",
+          "phase": "pos_evento"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "t-1",
+          "title": "Auditoria de Acessibilidade Física das Rampas e Auditório do WTC",
+          "category": "logistica",
+          "assignedTo": "Clara Silveira",
+          "assignedEmail": "clara.silveira@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-09-30",
+          "priority": "alta"
+        },
+        {
+          "id": "t-2",
+          "title": "Revisão dos Termos de Imagem e LGPD no Formulário de Credenciamento",
+          "category": "marketing",
+          "assignedTo": "Jesse Ribeiro",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-10-02",
+          "priority": "alta"
+        },
+        {
+          "id": "t-3",
+          "title": "Validação da Amostra do Kit Boas-Vindas (Mochila ecológica e caderno reciclado)",
+          "category": "fornecedores",
+          "assignedTo": "Beatriz Fonseca",
+          "assignedEmail": "beatriz.fonseca@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-14",
+          "priority": "media"
+        },
+        {
+          "id": "t-4",
+          "title": "Contratação de Intérprete de Libras para o Palco Principal",
+          "category": "logistica",
+          "assignedTo": "Clara Silveira",
+          "assignedEmail": "clara.silveira@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-10-10",
+          "priority": "alta"
+        },
+        {
+          "id": "t-5",
+          "title": "Alinhamento com Equipe de Vendas sobre Mesa VIP de Relacionamento",
+          "category": "marketing",
+          "assignedTo": "Thiago Rocha",
+          "assignedEmail": "thiago.rocha@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-28",
+          "priority": "media"
+        }
+      ],
+      "policyChecklist": [
+        {
+          "id": "p-1",
+          "category": "aprovacoes_gerais",
+          "title": "Alçada Financeira Aprovada pelo VP/Diretoria",
+          "description": "Orçamento acima de R$ 50k com parecer favorável da Controladoria",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Lucas Mendes",
+          "verifiedAt": "2026-09-20"
+        },
+        {
+          "id": "p-2",
+          "category": "acessibilidade",
+          "title": "Acessibilidade Arquitetônica e Digital",
+          "description": "Rampas, banheiros adaptados, intérpretes de Libras e legendagem em telão",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Clara Silveira",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "id": "p-3",
+          "category": "swag_brindes",
+          "title": "Política de Brindes Sustentáveis Revloop",
+          "description": "Materiais certificados sem plásticos de uso único e itens úteis de longa duração",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Beatriz Fonseca",
+          "verifiedAt": "2026-10-01"
+        },
+        {
+          "id": "p-4",
+          "category": "avaliacao_fornecedores",
+          "title": "Homologação e Certidões de Fornecedores",
+          "description": "Checagem de conformidade trabalhista, CNPJ ativo e seguro de responsabilidade civil",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Clara Silveira",
+          "verifiedAt": "2026-09-26"
+        },
+        {
+          "id": "p-5",
+          "category": "privacidade_lgpd",
+          "title": "Compliance LGPD & Termo de Consentimento",
+          "description": "Opt-in de comunicação claro e termo de uso de fotos/vídeos no credenciamento",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-10-01"
+        },
+        {
+          "id": "p-6",
+          "category": "comunicacoes",
+          "title": "Kit de Imprensa e Guia de Marca Alinhados",
+          "description": "Aprovação de logotipos dos patrocinadores e manual de tom de voz Revloop",
+          "completed": false,
+          "required": false
+        }
+      ],
+      "comments": [
+        {
+          "id": "c-1790898338115",
+          "authorName": "Clara Silveira",
+          "authorEmail": "clara.silveira@revloop.com.br",
+          "authorRole": "Head de Operações & Eventos",
+          "authorAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+          "content": "Auditoria de segurança e alvará de funcionamento homologados no hub.",
+          "createdAt": "2026-10-01T23:45:38.115Z",
+          "isOwnerNote": true
+        },
+        {
+          "id": "c-1",
+          "authorName": "Clara Silveira",
+          "authorEmail": "clara.silveira@revloop.com.br",
+          "authorRole": "Head de Operações",
+          "authorAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+          "content": "Contrato do WTC devidamente assinado e garantido. O espaço possui certificação total de acessibilidade. A equipe de A/V já fez a visita técnica.",
+          "createdAt": "2026-09-26T14:10:00Z",
+          "isOwnerNote": true
+        },
+        {
+          "id": "c-2",
+          "authorName": "Lucas Mendes",
+          "authorEmail": "lucas.mendes@revloop.com.br",
+          "authorRole": "VP de Marketing",
+          "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+          "content": "Iniciamos os convites para a lista VIP de 50 CROs. A aceitação está em 78% na primeira rodada.",
+          "createdAt": "2026-09-29T11:45:00Z"
+        }
+      ],
+      "resources": [
+        {
+          "id": "r-1",
+          "type": "drive",
+          "title": "Briefing Executivo & Matriz de Patrocínio",
+          "url": "https://docs.google.com/document/d/revloop-summit-briefing",
+          "metadata": "Google Docs · Atualizado há 2 dias"
+        },
+        {
+          "id": "r-2",
+          "type": "drive",
+          "title": "Planilha de Orçamento Consolidado & Custos Reais",
+          "url": "https://docs.google.com/spreadsheets/d/revloop-summit-orcamento",
+          "metadata": "Google Sheets · referência semeada"
+        },
+        {
+          "id": "r-3",
+          "type": "slack",
+          "title": "Canal #summit-revloop-2026 no Slack",
+          "url": "https://revloop.slack.com/archives/C08SUMMIT26",
+          "metadata": "Slack · 24 membros ativos"
+        },
+        {
+          "id": "r-4",
+          "type": "notion",
+          "title": "Playbook Revloop: Guia de Grandes Conferências",
+          "url": "https://notion.so/revloop/playbook-grandes-conferencias-v3",
+          "metadata": "Notion · Versão 3.2 aprovada"
+        },
+        {
+          "id": "r-5",
+          "type": "calendar",
+          "title": "Google Agenda: Summit Revloop 2026 (WTC)",
+          "url": "https://calendar.google.com/event?eid=summit2026wtc",
+          "metadata": "Google Calendar · Sem conflitos"
+        }
+      ],
+      "activities": [
+        {
+          "id": "act-1790898338115",
+          "timestamp": "2026-10-01T23:45:38.115Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "action": "Nota do Responsável",
+          "details": "Clara Silveira publicou um comentário no evento.",
+          "category": "comentario"
+        },
+        {
+          "id": "a-1",
+          "timestamp": "2026-10-01T14:20:00Z",
+          "actorName": "Jesse Ribeiro",
+          "actorEmail": "jr.jesse@revloop.com.br",
+          "action": "Atualização de Política",
+          "details": "Item \"Compliance LGPD\" marcado como verificado.",
+          "category": "politica"
+        },
+        {
+          "id": "a-2",
+          "timestamp": "2026-09-29T11:45:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "action": "Novo Comentário",
+          "details": "Comentou sobre a aceitação dos convites VIP de CROs.",
+          "category": "comentario"
+        },
+        {
+          "id": "a-3",
+          "timestamp": "2026-09-26T14:10:00Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "action": "Status Aprovado",
+          "details": "Solicitação formalmente aprovada pela responsável designada.",
+          "category": "status"
+        }
+      ],
+      "auditTrail": [
+        {
+          "id": "audit-1790898338115-51ep",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-10-01T23:45:38.115Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Head de Operações & Eventos",
+          "actorAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+          "fieldName": "Nota Formal do Responsável",
+          "fieldKey": "comments",
+          "oldValue": "(Inexistente)",
+          "newValue": "Auditoria de segurança e alvará de funcionamento homologados...",
+          "changeType": "comentario",
+          "changeSummary": "Clara Silveira (Head de Operações & Eventos) registrou comentário no histórico de comunicação do evento.",
+          "d1TxHash": "d1_sha256_muq6mpmr_gzj60kg",
+          "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-pol-2",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-10-01T14:30:00Z",
+          "actorName": "Beatriz Fonseca",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Auditor de Compliance",
+          "fieldName": "Checklist Compliance: Política de Brindes Sustentáveis Revloop",
+          "fieldKey": "policyChecklist",
+          "oldValue": "Pendente de Auditoria",
+          "newValue": "Auditado & Conforme",
+          "changeType": "compliance",
+          "changeSummary": "Verificação mandatória de compliance 'Política de Brindes Sustentáveis Revloop' auditada e homologada no hub.",
+          "d1TxHash": "d1_sha256_pol_evt2026001_2",
+          "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-pol-4",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-10-01T14:30:00Z",
+          "actorName": "Jesse Ribeiro",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Auditor de Compliance",
+          "fieldName": "Checklist Compliance: Compliance LGPD & Termo de Consentimento",
+          "fieldKey": "policyChecklist",
+          "oldValue": "Pendente de Auditoria",
+          "newValue": "Auditado & Conforme",
+          "changeType": "compliance",
+          "changeSummary": "Verificação mandatória de compliance 'Compliance LGPD & Termo de Consentimento' auditada e homologada no hub.",
+          "d1TxHash": "d1_sha256_pol_evt2026001_4",
+          "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-task-0",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-10-01T14:20:00Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Executor da Tarefa",
+          "fieldName": "Tarefa Operacional: Auditoria de Acessibilidade Física das Rampas e Auditório do WTC",
+          "fieldKey": "tasks",
+          "oldValue": "Pendente",
+          "newValue": "Concluída",
+          "changeType": "tarefa",
+          "changeSummary": "Tarefa operacional 'Auditoria de Acessibilidade Física das Rampas e Auditório do WTC' finalizada e registrada no banco de dados.",
+          "d1TxHash": "d1_sha256_task_evt2026001_0",
+          "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-task-1",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-10-01T14:20:00Z",
+          "actorName": "Jesse Ribeiro",
+          "actorEmail": "jr.jesse@revloop.com.br",
+          "actorRole": "Executor da Tarefa",
+          "fieldName": "Tarefa Operacional: Revisão dos Termos de Imagem e LGPD no Formulário de Credenciamento",
+          "fieldKey": "tasks",
+          "oldValue": "Pendente",
+          "newValue": "Concluída",
+          "changeType": "tarefa",
+          "changeSummary": "Tarefa operacional 'Revisão dos Termos de Imagem e LGPD no Formulário de Credenciamento' finalizada e registrada no banco de dados.",
+          "d1TxHash": "d1_sha256_task_evt2026001_1",
+          "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-task-3",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-10-01T14:20:00Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Executor da Tarefa",
+          "fieldName": "Tarefa Operacional: Contratação de Intérprete de Libras para o Palco Principal",
+          "fieldKey": "tasks",
+          "oldValue": "Pendente",
+          "newValue": "Concluída",
+          "changeType": "tarefa",
+          "changeSummary": "Tarefa operacional 'Contratação de Intérprete de Libras para o Palco Principal' finalizada e registrada no banco de dados.",
+          "d1TxHash": "d1_sha256_task_evt2026001_3",
+          "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-pol-1",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-28T14:30:00Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Auditor de Compliance",
+          "fieldName": "Checklist Compliance: Acessibilidade Arquitetônica e Digital",
+          "fieldKey": "policyChecklist",
+          "oldValue": "Pendente de Auditoria",
+          "newValue": "Auditado & Conforme",
+          "changeType": "compliance",
+          "changeSummary": "Verificação mandatória de compliance 'Acessibilidade Arquitetônica e Digital' auditada e homologada no hub.",
+          "d1TxHash": "d1_sha256_pol_evt2026001_1",
+          "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-pol-3",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-26T14:30:00Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Auditor de Compliance",
+          "fieldName": "Checklist Compliance: Homologação e Certidões de Fornecedores",
+          "fieldKey": "policyChecklist",
+          "oldValue": "Pendente de Auditoria",
+          "newValue": "Auditado & Conforme",
+          "changeType": "compliance",
+          "changeSummary": "Verificação mandatória de compliance 'Homologação e Certidões de Fornecedores' auditada e homologada no hub.",
+          "d1TxHash": "d1_sha256_pol_evt2026001_3",
+          "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-pol-0",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-20T14:30:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Auditor de Compliance",
+          "fieldName": "Checklist Compliance: Alçada Financeira Aprovada pelo VP/Diretoria",
+          "fieldKey": "policyChecklist",
+          "oldValue": "Pendente de Auditoria",
+          "newValue": "Auditado & Conforme",
+          "changeType": "compliance",
+          "changeSummary": "Verificação mandatória de compliance 'Alçada Financeira Aprovada pelo VP/Diretoria' auditada e homologada no hub.",
+          "d1TxHash": "d1_sha256_pol_evt2026001_0",
+          "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-1",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-12T12:00:00.000Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "actorRole": "Responsável Designado",
+          "actorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+          "fieldName": "Status da Solicitação",
+          "fieldKey": "status",
+          "oldValue": "solicitado",
+          "newValue": "aprovado",
+          "changeType": "aprovacao",
+          "changeSummary": "Aprovado pelo responsável designado Clara Silveira. Alçada de R$ 85.000 liberada para execução.",
+          "d1TxHash": "d1_sha256_tx_evt2026001_appr",
+          "ipOrigin": "Revloop Auth Gateway (10.0.4.15)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-0",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-12T10:00:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "actorRole": "Solicitante do Workspace",
+          "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+          "fieldName": "Registro Inicial do Evento",
+          "fieldKey": "event_creation",
+          "oldValue": "(Inexistente)",
+          "newValue": "Cadastrado como 'em planejamento' com orçamento de R$ 85.000",
+          "changeType": "criacao",
+          "changeSummary": "Solicitação criada no hub para avaliação de Clara Silveira.",
+          "d1TxHash": "d1_sha256_genesis_evt2026001",
+          "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+          "isSystemAudit": false
+        },
+        {
+          "id": "audit-init-evt-2026-001-res-0",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-12T10:00:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "actorRole": "Coordenador",
+          "fieldName": "Recurso Digital Vinculado: Briefing Executivo & Matriz de Patrocínio",
+          "fieldKey": "resources",
+          "oldValue": "(Sem vínculo)",
+          "newValue": "DRIVE: https://docs.google.com/document/d/revloop-summit-briefing",
+          "changeType": "recurso",
+          "changeSummary": "Recurso corporativo 'Briefing Executivo & Matriz de Patrocínio' indexado ao registro do evento.",
+          "d1TxHash": "d1_sha256_res_evt2026001_0",
+          "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+          "isSystemAudit": true
+        },
+        {
+          "id": "audit-init-evt-2026-001-res-1",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-12T10:00:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "actorRole": "Coordenador",
+          "fieldName": "Recurso Digital Vinculado: Planilha de Orçamento Consolidado & Custos Reais",
+          "fieldKey": "resources",
+          "oldValue": "(Sem vínculo)",
+          "newValue": "DRIVE: https://docs.google.com/spreadsheets/d/revloop-summit-orcamento",
+          "changeType": "recurso",
+          "changeSummary": "Recurso corporativo 'Planilha de Orçamento Consolidado & Custos Reais' indexado ao registro do evento.",
+          "d1TxHash": "d1_sha256_res_evt2026001_1",
+          "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+          "isSystemAudit": true
+        },
+        {
+          "id": "audit-init-evt-2026-001-res-2",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-12T10:00:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "actorRole": "Coordenador",
+          "fieldName": "Recurso Digital Vinculado: Canal #summit-revloop-2026 no Slack",
+          "fieldKey": "resources",
+          "oldValue": "(Sem vínculo)",
+          "newValue": "SLACK: https://revloop.slack.com/archives/C08SUMMIT26",
+          "changeType": "recurso",
+          "changeSummary": "Recurso corporativo 'Canal #summit-revloop-2026 no Slack' indexado ao registro do evento.",
+          "d1TxHash": "d1_sha256_res_evt2026001_2",
+          "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+          "isSystemAudit": true
+        },
+        {
+          "id": "audit-init-evt-2026-001-res-3",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-12T10:00:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "actorRole": "Coordenador",
+          "fieldName": "Recurso Digital Vinculado: Playbook Revloop: Guia de Grandes Conferências",
+          "fieldKey": "resources",
+          "oldValue": "(Sem vínculo)",
+          "newValue": "NOTION: https://notion.so/revloop/playbook-grandes-conferencias-v3",
+          "changeType": "recurso",
+          "changeSummary": "Recurso corporativo 'Playbook Revloop: Guia de Grandes Conferências' indexado ao registro do evento.",
+          "d1TxHash": "d1_sha256_res_evt2026001_3",
+          "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+          "isSystemAudit": true
+        },
+        {
+          "id": "audit-init-evt-2026-001-res-4",
+          "eventId": "evt-2026-001",
+          "timestamp": "2026-09-12T10:00:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "actorRole": "Coordenador",
+          "fieldName": "Recurso Digital Vinculado: Google Agenda: Summit Revloop 2026 (WTC)",
+          "fieldKey": "resources",
+          "oldValue": "(Sem vínculo)",
+          "newValue": "CALENDAR: https://calendar.google.com/event?eid=summit2026wtc",
+          "changeType": "recurso",
+          "changeSummary": "Recurso corporativo 'Google Agenda: Summit Revloop 2026 (WTC)' indexado ao registro do evento.",
+          "d1TxHash": "d1_sha256_res_evt2026001_4",
+          "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+          "isSystemAudit": true
+        }
+      ]
+    },
+    {
+      "id": "evt-2026-002",
+      "title": "Revloop VIP Executive Dinner - Q4 São Paulo",
+      "type": "jantar_clientes",
+      "targetAudience": "18 C-Levels e Diretores de Operações de Contas Enterprise (Tier 1)",
+      "objective": "Estreitar relacionamento com os 15 maiores clientes do plano Enterprise, apresentar antecipadamente o roadmap de IA 2027 e acelerar renovações de contratos.",
+      "designatedOwnerName": "Lucas Mendes",
+      "designatedOwnerEmail": "lucas.mendes@revloop.com.br",
+      "requestedByName": "Thiago Rocha",
+      "requestedByEmail": "thiago.rocha@revloop.com.br",
+      "createdAt": "2026-09-29T16:00:00Z",
+      "updatedAt": "2026-10-01T22:53:49.317Z",
+      "startDate": "2026-10-22T19:30:00",
+      "endDate": "2026-10-22T23:00:00",
+      "format": "presencial",
+      "location": "Restaurante Manioca - Espaço Privativo, Rua Joaquim Antunes, 210 - Jardim Paulistano, SP",
+      "budget": 22000,
+      "spentBudget": 0,
+      "estimatedAttendees": 20,
+      "suppliers": [
+        "Restaurante Manioca (Menu Degustação)",
+        "Sommelier & Harmonização Bacco",
+        "Gráfica FinePrint (Cardápios personalizados)"
+      ],
+      "status": "aprovado",
+      "health": "saudavel",
+      "policyComplianceScore": 67,
+      "notes": "Solicitação requer validação de alçada de despesas pelo VP Lucas Mendes antes de assinar com o restaurante. Proposta de data coincide com feriado prolongado no interior, checar agenda de convidados.",
+      "slackChannel": "#dinner-executivos-q4",
+      "driveFolderUrl": "https://drive.google.com/corp/revloop/jantar-executivo-q4",
+      "notionPlaybookUrl": "https://notion.so/revloop/playbook-jantar-com-clientes",
+      "milestones": [
+        {
+          "id": "m-201",
+          "title": "Validação e Aprovação da Alçada Orçamentária pelo VP",
+          "dueDate": "2026-10-04",
+          "completed": true,
+          "ownerName": "Lucas Mendes",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-202",
+          "title": "Reserva do Salão Privativo no Manioca e Sinal de 30%",
+          "dueDate": "2026-10-06",
+          "completed": false,
+          "ownerName": "Thiago Rocha",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-203",
+          "title": "Envio de Save-the-Date personalizado aos C-Levels",
+          "dueDate": "2026-10-08",
+          "completed": false,
+          "ownerName": "Thiago Rocha",
+          "phase": "divulgacao"
+        },
+        {
+          "id": "m-204",
+          "title": "Confirmação final de restrições alimentares dos convidados",
+          "dueDate": "2026-10-19",
+          "completed": false,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "operacao"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "t-201",
+          "title": "Auditoria de alinhamento com política de hospitalidade e compliance",
+          "category": "financeiro",
+          "assignedTo": "Lucas Mendes",
+          "assignedEmail": "lucas.mendes@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-03",
+          "priority": "alta"
+        },
+        {
+          "id": "t-202",
+          "title": "Coleta de restrições alimentares com secretárias dos clientes",
+          "category": "logistica",
+          "assignedTo": "Jesse Ribeiro",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-18",
+          "priority": "media"
+        },
+        {
+          "id": "t-203",
+          "title": "Briefing dos executivos internos Revloop sobre contas participantes",
+          "category": "conteudo",
+          "assignedTo": "Thiago Rocha",
+          "assignedEmail": "thiago.rocha@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-20",
+          "priority": "alta"
+        }
+      ],
+      "policyChecklist": [
+        {
+          "id": "p-201",
+          "category": "aprovacoes_gerais",
+          "title": "Alçada Executiva de VP",
+          "description": "Gastos com jantares executivos acima de R$ 15k devem ter sign-off do VP de Marketing ou CFO",
+          "completed": false,
+          "required": true
+        },
+        {
+          "id": "p-202",
+          "category": "acessibilidade",
+          "title": "Acessibilidade do Espaço Privativo",
+          "description": "Garantir acesso livre sem barreiras para todos os convidados",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Thiago Rocha",
+          "verifiedAt": "2026-09-30"
+        },
+        {
+          "id": "p-203",
+          "category": "swag_brindes",
+          "title": "Lembrança Institucional Conforme Política",
+          "description": "Livro selecionado de liderança ou brinde artesanal sem conflito com código de ética de clientes públicos",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Thiago Rocha",
+          "verifiedAt": "2026-09-30"
+        },
+        {
+          "id": "p-204",
+          "category": "avaliacao_fornecedores",
+          "title": "Contrato de Evento & Nota Fiscal Corporativa",
+          "description": "Emissão de NF-e direta para Revloop Tecnologia Ltda",
+          "completed": false,
+          "required": true
+        },
+        {
+          "id": "p-205",
+          "category": "privacidade_lgpd",
+          "title": "Não divulgação de lista de convidados sem anuência",
+          "description": "Proteção de informações concorrenciais e sigilo comercial das empresas presentes",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Thiago Rocha",
+          "verifiedAt": "2026-09-30"
+        },
+        {
+          "id": "p-206",
+          "category": "comunicacoes",
+          "title": "Comunicação Exclusiva 1-to-1",
+          "description": "Convites redigidos de forma individualizada assinados pelo Diretor",
+          "completed": true,
+          "required": false
+        }
+      ],
+      "comments": [
+        {
+          "id": "c-1790895229317",
+          "authorName": "Lucas Mendes",
+          "authorEmail": "lucas.mendes@revloop.com.br",
+          "authorRole": "VP de Marketing & Growth",
+          "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+          "content": "Solicitação aceita pelo responsável! Nota: \"Aprovado pelo VP Lucas Mendes para execução no Q4.\"",
+          "createdAt": "2026-10-01T22:53:49.317Z",
+          "isOwnerNote": true
+        },
+        {
+          "id": "c-201",
+          "authorName": "Thiago Rocha",
+          "authorEmail": "thiago.rocha@revloop.com.br",
+          "authorRole": "Sales Director",
+          "authorAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+          "content": "Lucas, submeti a solicitação com a lista fechada dos 18 clientes com maior potencial de expansão no Q4. Manioca já segurou a data até sexta-feira.",
+          "createdAt": "2026-09-29T16:15:00Z"
+        },
+        {
+          "id": "c-202",
+          "authorName": "Jesse Ribeiro",
+          "authorEmail": "jr.jesse@revloop.com.br",
+          "authorRole": "Event Coordinator",
+          "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+          "content": "Chequei o Google Agenda corporativo: sem conflitos diretos para a noite de 22/10. O Manioca tem rampa e elevador acessível.",
+          "createdAt": "2026-09-30T10:00:00Z"
+        }
+      ],
+      "resources": [
+        {
+          "id": "r-201",
+          "type": "drive",
+          "title": "Lista de Contas Alvo & VIPs Convidados",
+          "url": "https://docs.google.com/spreadsheets/d/revloop-jantar-q4-vips",
+          "metadata": "Google Sheets"
+        },
+        {
+          "id": "r-202",
+          "type": "slack",
+          "title": "Canal #dinner-executivos-q4",
+          "url": "https://revloop.slack.com/archives/C09DINNERQ4",
+          "metadata": "Slack · 6 membros"
+        },
+        {
+          "id": "r-203",
+          "type": "notion",
+          "title": "Playbook: Jantar com Clientes C-Level",
+          "url": "https://notion.so/revloop/playbook-jantar-com-clientes",
+          "metadata": "Notion Guia"
+        }
+      ],
+      "activities": [
+        {
+          "id": "act-1790895229317",
+          "timestamp": "2026-10-01T22:53:49.317Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "action": "Solicitação Aceita e Aprovada",
+          "details": "Aprovada formalmente pelo responsável designado Lucas Mendes. O evento avança para a fase de planejamento.",
+          "category": "status"
+        },
+        {
+          "id": "a-201",
+          "timestamp": "2026-09-29T16:00:00Z",
+          "actorName": "Thiago Rocha",
+          "actorEmail": "thiago.rocha@revloop.com.br",
+          "action": "Solicitação Criada",
+          "details": "Nova solicitação de Jantar com Clientes submetida aguardando Lucas Mendes.",
+          "category": "status"
+        }
+      ]
+    },
+    {
+      "id": "evt-2026-003",
+      "title": "Tech Recruiting Day: Engenharia & Dados 2026",
+      "type": "recrutamento",
+      "targetAudience": "Engenheiros de Software Sênior, Tech Leads e Arquitetos de Dados",
+      "objective": "Atrair e qualificar 50 talentos seniores para o crescimento do time de Produto e Engenharia do Revloop em 2027.",
+      "designatedOwnerName": "Mariana Duarte",
+      "designatedOwnerEmail": "mariana.duarte@revloop.com.br",
+      "requestedByName": "Jesse Ribeiro",
+      "requestedByEmail": "jr.jesse@revloop.com.br",
+      "createdAt": "2026-09-25T14:00:00Z",
+      "updatedAt": "2026-10-01T11:10:00Z",
+      "startDate": "2026-10-29T18:00:00",
+      "endDate": "2026-10-29T21:30:00",
+      "format": "hibrido",
+      "location": "Revloop Innovation Hub - Andar 14, Av. Paulista, 1842 - Bela Vista, SP & Transmissão Discord Dev",
+      "budget": 16000,
+      "spentBudget": 3200,
+      "estimatedAttendees": 80,
+      "suppliers": [
+        "Catering Artesanal Coffee Break",
+        "Estúdio Live Stream Revloop",
+        "Brindes Dev (Camisetas tech e stickers)"
+      ],
+      "status": "em_revisao",
+      "health": "saudavel",
+      "policyComplianceScore": 85,
+      "notes": "Dinâmica de live-coding e bate-papo informal com o CTO e Tech Leads. Mariana Duarte revisando alinhamento com metas de diversidade.",
+      "slackChannel": "#recruiting-day-tech-2026",
+      "driveFolderUrl": "https://drive.google.com/corp/revloop/recruiting-day-briefing",
+      "notionPlaybookUrl": "https://notion.so/revloop/playbook-eventos-de-recrutamento",
+      "milestones": [
+        {
+          "id": "m-301",
+          "title": "Validação da política de diversidade e inclusão nas inscrições",
+          "dueDate": "2026-10-05",
+          "completed": true,
+          "ownerName": "Mariana Duarte",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-302",
+          "title": "Divulgação nas comunidades Dev (BrazilJS, DevOps SP, Data Hackers)",
+          "dueDate": "2026-10-08",
+          "completed": false,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "divulgacao"
+        },
+        {
+          "id": "m-303",
+          "title": "Triagem dos primeiros 50 inscritos presenciais",
+          "dueDate": "2026-10-22",
+          "completed": false,
+          "ownerName": "Mariana Duarte",
+          "phase": "operacao"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "t-301",
+          "title": "Configurar canal exclusivo no Discord para interação remota",
+          "category": "marketing",
+          "assignedTo": "Jesse Ribeiro",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-10-04",
+          "priority": "media"
+        },
+        {
+          "id": "t-302",
+          "title": "Briefing dos entrevistadores sobre conduta anti-viés",
+          "category": "conteudo",
+          "assignedTo": "Mariana Duarte",
+          "assignedEmail": "mariana.duarte@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-25",
+          "priority": "alta"
+        }
+      ],
+      "policyChecklist": [
+        {
+          "id": "p-301",
+          "category": "aprovacoes_gerais",
+          "title": "Aprovação da Liderança de Pessoas",
+          "description": "Validação pelo People Lead de alinhamento com headcount previsto",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Mariana Duarte",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "id": "p-302",
+          "category": "acessibilidade",
+          "title": "Ambiente Inclusivo e Neurodiverso",
+          "description": "Espaço silencioso de descompressão e materiais com alto contraste",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Mariana Duarte",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "id": "p-303",
+          "category": "swag_brindes",
+          "title": "Kits Dev Sustentáveis",
+          "description": "Camisetas 100% algodão orgânico e adesivos recicláveis",
+          "completed": true,
+          "required": false,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-09-30"
+        },
+        {
+          "id": "p-304",
+          "category": "avaliacao_fornecedores",
+          "title": "Buffet de Coffee Break Inclusivo",
+          "description": "Opções veganas, sem glúten e sem lactose claramente identificadas",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Mariana Duarte",
+          "verifiedAt": "2026-10-01"
+        },
+        {
+          "id": "p-305",
+          "category": "privacidade_lgpd",
+          "title": "LGPD para Dados Curriculares de Candidatos",
+          "description": "Consentimento explícito para banco de talentos de 12 meses",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-09-29"
+        },
+        {
+          "id": "p-306",
+          "category": "comunicacoes",
+          "title": "Divulgação em Redes Oficiais Revloop",
+          "description": "LinkedIn Corporativo e canais parceiros de tecnologia",
+          "completed": false,
+          "required": false
+        }
+      ],
+      "comments": [
+        {
+          "id": "c-301",
+          "authorName": "Mariana Duarte",
+          "authorEmail": "mariana.duarte@revloop.com.br",
+          "authorRole": "People Lead",
+          "authorAvatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+          "content": "Gostei muito da estrutura híbrida. Estou apenas finalizando a revisão da trilha de diversidade antes de aprovar formalmente.",
+          "createdAt": "2026-09-28T17:00:00Z",
+          "isOwnerNote": true
+        }
+      ],
+      "resources": [
+        {
+          "id": "r-301",
+          "type": "drive",
+          "title": "Roteiro de Desafios Técnicos & Dinâmica",
+          "url": "https://docs.google.com/document/d/revloop-recruiting-challenges",
+          "metadata": "Google Docs"
+        },
+        {
+          "id": "r-302",
+          "type": "slack",
+          "title": "Canal #recruiting-day-tech-2026",
+          "url": "https://revloop.slack.com/archives/C08TECHREC",
+          "metadata": "Slack"
+        },
+        {
+          "id": "r-303",
+          "type": "notion",
+          "title": "Playbook: Eventos de Recrutamento & D&I",
+          "url": "https://notion.so/revloop/playbook-eventos-de-recrutamento",
+          "metadata": "Notion"
+        }
+      ],
+      "activities": [
+        {
+          "id": "a-301",
+          "timestamp": "2026-09-25T14:00:00Z",
+          "actorName": "Jesse Ribeiro",
+          "actorEmail": "jr.jesse@revloop.com.br",
+          "action": "Solicitação Criada",
+          "details": "Solicitação de Tech Recruiting Day enviada para Mariana Duarte.",
+          "category": "status"
+        }
+      ]
+    },
+    {
+      "id": "evt-2026-004",
+      "title": "Webinar Masterclass: Inteligência de Pipeline & Forecast Preditivo",
+      "type": "webinar",
+      "targetAudience": "Gerentes de Vendas B2B, SDRs Líderes e Analistas de Operações de Receita",
+      "objective": "Demonstrar cases reais de previsão de fechamento com IA no Revloop e captar 600 inscritos qualificados.",
+      "designatedOwnerName": "Lucas Mendes",
+      "designatedOwnerEmail": "lucas.mendes@revloop.com.br",
+      "requestedByName": "Beatriz Fonseca",
+      "requestedByEmail": "beatriz.fonseca@revloop.com.br",
+      "createdAt": "2026-09-18T10:00:00Z",
+      "updatedAt": "2026-10-01T15:00:00Z",
+      "startDate": "2026-10-27T16:00:00",
+      "endDate": "2026-10-27T17:30:00",
+      "format": "virtual",
+      "location": "Estúdio Virtual Revloop / Zoom Webinar Pro & YouTube Live",
+      "budget": 6500,
+      "spentBudget": 2800,
+      "estimatedAttendees": 650,
+      "suppliers": [
+        "Zoom Enterprise Video Webinars",
+        "Produtora Audiovisual PixelStudio (Motion & Abertura)"
+      ],
+      "status": "em_planejamento",
+      "health": "atencao",
+      "policyComplianceScore": 88,
+      "notes": "Atenção: apresentação dos slides do convidado especial precisa ser validada até 20/10 para evitar atrasos na transmissão.",
+      "slackChannel": "#webinar-pipeline-q4",
+      "driveFolderUrl": "https://drive.google.com/corp/revloop/webinar-pipeline-ia",
+      "notionPlaybookUrl": "https://notion.so/revloop/playbook-webinars-estrategicos",
+      "calendarEventId": "cal-webinar-pipeline-2026",
+      "milestones": [
+        {
+          "id": "m-401",
+          "title": "Landing page no ar e campanhas de LinkedIn Ads ativas",
+          "dueDate": "2026-10-07",
+          "completed": true,
+          "ownerName": "Beatriz Fonseca",
+          "phase": "divulgacao"
+        },
+        {
+          "id": "m-402",
+          "title": "Gravação do teaser de vídeo com os hosts",
+          "dueDate": "2026-10-14",
+          "completed": true,
+          "ownerName": "Lucas Mendes",
+          "phase": "divulgacao"
+        },
+        {
+          "id": "m-403",
+          "title": "Recebimento e validação do deck final do palestrante convidado",
+          "dueDate": "2026-10-20",
+          "completed": false,
+          "ownerName": "Beatriz Fonseca",
+          "phase": "operacao"
+        },
+        {
+          "id": "m-404",
+          "title": "Dry Run técnico e teste de moderação no Zoom",
+          "dueDate": "2026-10-26",
+          "completed": false,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "operacao"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "t-401",
+          "title": "Garantir legendagem automática ativa no Zoom e transcrição pós-evento",
+          "category": "conteudo",
+          "assignedTo": "Jesse Ribeiro",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-10-12",
+          "priority": "alta"
+        },
+        {
+          "id": "t-402",
+          "title": "Configurar fluxo de automação no CRM para nutrição de leads pós-webinar",
+          "category": "marketing",
+          "assignedTo": "Beatriz Fonseca",
+          "assignedEmail": "beatriz.fonseca@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-10-23",
+          "priority": "media"
+        }
+      ],
+      "policyChecklist": [
+        {
+          "id": "p-401",
+          "category": "aprovacoes_gerais",
+          "title": "Aprovação de Orçamento de Mídia Paga",
+          "description": "Orçamento de tráfego de R$ 4k aprovado pelo VP Lucas Mendes",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Lucas Mendes",
+          "verifiedAt": "2026-09-20"
+        },
+        {
+          "id": "p-402",
+          "category": "acessibilidade",
+          "title": "Acessibilidade de Conteúdo e Legendas",
+          "description": "Closed captions automáticas e contraste em slides de apresentação",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-09-28"
+        },
+        {
+          "id": "p-403",
+          "category": "swag_brindes",
+          "title": "Brinde Digital / E-book Exclusivo",
+          "description": "Envio de material educativo rico sem brindes físicos descartáveis",
+          "completed": true,
+          "required": false,
+          "verifiedBy": "Beatriz Fonseca",
+          "verifiedAt": "2026-09-22"
+        },
+        {
+          "id": "p-404",
+          "category": "avaliacao_fornecedores",
+          "title": "Licença e Segurança da Plataforma de Transmissão",
+          "description": "Zoom Webinar corporativo com sala de espera e moderação ativa",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-09-25"
+        },
+        {
+          "id": "p-405",
+          "category": "privacidade_lgpd",
+          "title": "Termo de Consentimento na Landing Page",
+          "description": "Consentimento duplo e opção de cancelamento de inscrição com 1 clique",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Beatriz Fonseca",
+          "verifiedAt": "2026-09-24"
+        },
+        {
+          "id": "p-406",
+          "category": "comunicacoes",
+          "title": "Emails de Aquecimento e Lembrete 24h/1h",
+          "description": "Fluxo padronizado pelo guia de comunicação Revloop",
+          "completed": false,
+          "required": true
+        }
+      ],
+      "comments": [
+        {
+          "id": "c-401",
+          "authorName": "Lucas Mendes",
+          "authorEmail": "lucas.mendes@revloop.com.br",
+          "authorRole": "VP de Marketing",
+          "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+          "content": "Aprovado formalmente. Foco total em atrair decisores de Revenue Operations de empresas SaaS.",
+          "createdAt": "2026-09-20T11:00:00Z",
+          "isOwnerNote": true
+        }
+      ],
+      "resources": [
+        {
+          "id": "r-401",
+          "type": "drive",
+          "title": "Deck de Apresentação Masterclass (Google Slides)",
+          "url": "https://docs.google.com/presentation/d/revloop-webinar-deck",
+          "metadata": "Google Slides"
+        },
+        {
+          "id": "r-402",
+          "type": "slack",
+          "title": "Canal #webinar-pipeline-q4",
+          "url": "https://revloop.slack.com/archives/C09WEBINAR",
+          "metadata": "Slack"
+        },
+        {
+          "id": "r-403",
+          "type": "notion",
+          "title": "Playbook: Webinars Estratégicos & Conversão B2B",
+          "url": "https://notion.so/revloop/playbook-webinars-estrategicos",
+          "metadata": "Notion"
+        }
+      ],
+      "activities": [
+        {
+          "id": "a-401",
+          "timestamp": "2026-10-01T15:00:00Z",
+          "actorName": "Jesse Ribeiro",
+          "actorEmail": "jr.jesse@revloop.com.br",
+          "action": "Tarefa Concluída",
+          "details": "Configuração de closed captions automáticas validada no Zoom.",
+          "category": "tarefa"
+        }
+      ]
+    },
+    {
+      "id": "evt-2026-005",
+      "title": "Encontro da Equipe Revloop: Offsite Florianópolis 2026",
+      "type": "offsite",
+      "targetAudience": "100% dos colaboradores da Revloop (Engenharia, Produto, GTM e Operações)",
+      "objective": "Alinhamento estratégico do ano fiscal de 2027, celebração das conquistas do ano, fortalecimento de cultura e dinâmicas de conexão humana pós-pandemia.",
+      "designatedOwnerName": "Clara Silveira",
+      "designatedOwnerEmail": "clara.silveira@revloop.com.br",
+      "requestedByName": "Clara Silveira",
+      "requestedByEmail": "clara.silveira@revloop.com.br",
+      "createdAt": "2026-08-15T09:00:00Z",
+      "updatedAt": "2026-10-01T08:00:00Z",
+      "startDate": "2026-12-03T09:00:00",
+      "endDate": "2026-12-05T17:00:00",
+      "format": "presencial",
+      "location": "Costão do Santinho Resort, Estrada Vereador Onildo Lemos, 2505 - Praia do Santinho, Florianópolis - SC",
+      "budget": 210000,
+      "spentBudget": 145000,
+      "estimatedAttendees": 140,
+      "suppliers": [
+        "Costão do Santinho Resort",
+        "Viação Catarinense Traslados",
+        "Agência Viva Eventos & Teambuilding",
+        "Camisetas & Kits Revloopers"
+      ],
+      "status": "em_planejamento",
+      "health": "saudavel",
+      "policyComplianceScore": 95,
+      "notes": "Passagens aéreas emitidas para os membros remotos das regiões Nordeste, Centro-Oeste e Sul. Seguro de viagem corporativo contratado.",
+      "slackChannel": "#offsite-revloop-floripa-2026",
+      "driveFolderUrl": "https://drive.google.com/corp/revloop/offsite-floripa-logistica",
+      "notionPlaybookUrl": "https://notion.so/revloop/playbook-encontros-de-equipe-offsite",
+      "calendarEventId": "cal-offsite-floripa-2026",
+      "milestones": [
+        {
+          "id": "m-501",
+          "title": "Bloqueio de quartos e diárias no hotel resort",
+          "dueDate": "2026-08-30",
+          "completed": true,
+          "ownerName": "Clara Silveira",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-502",
+          "title": "Emissão de passagens aéreas e mapeamento de transfer",
+          "dueDate": "2026-09-28",
+          "completed": true,
+          "ownerName": "Mariana Duarte",
+          "phase": "operacao"
+        },
+        {
+          "id": "m-503",
+          "title": "Divulgação da agenda e roteiro de atividades para o time",
+          "dueDate": "2026-10-25",
+          "completed": false,
+          "ownerName": "Clara Silveira",
+          "phase": "divulgacao"
+        },
+        {
+          "id": "m-504",
+          "title": "Pesquisa anônima de satisfação e retrospectiva cultural",
+          "dueDate": "2026-12-09",
+          "completed": false,
+          "ownerName": "Mariana Duarte",
+          "phase": "pos_evento"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "t-501",
+          "title": "Coleta de dados médicos, emergências e restrições alimentares",
+          "category": "logistica",
+          "assignedTo": "Mariana Duarte",
+          "assignedEmail": "mariana.duarte@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-09-25",
+          "priority": "alta"
+        },
+        {
+          "id": "t-502",
+          "title": "Produção do kit especial do colaborador (mochila térmica e corta-vento)",
+          "category": "fornecedores",
+          "assignedTo": "Jesse Ribeiro",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-10-15",
+          "priority": "media"
+        },
+        {
+          "id": "t-503",
+          "title": "Alinhamento da dinâmica com consultoria externa de teambuilding",
+          "category": "conteudo",
+          "assignedTo": "Clara Silveira",
+          "assignedEmail": "clara.silveira@revloop.com.br",
+          "completed": false,
+          "dueDate": "2026-11-05",
+          "priority": "alta"
+        }
+      ],
+      "policyChecklist": [
+        {
+          "id": "p-501",
+          "category": "aprovacoes_gerais",
+          "title": "Alçada Diretoria Executiva & CEO",
+          "description": "Aprovação do orçamento do offsite anual pela liderança executiva",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Clara Silveira",
+          "verifiedAt": "2026-08-20"
+        },
+        {
+          "id": "p-502",
+          "category": "acessibilidade",
+          "title": "Acessibilidade em Todas as Atividades",
+          "description": "Garantir que todas as dinâmicas de grupo sejam 100% inclusivas e acessíveis",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Mariana Duarte",
+          "verifiedAt": "2026-09-10"
+        },
+        {
+          "id": "p-503",
+          "category": "swag_brindes",
+          "title": "Kits Duráveis e Funcionais",
+          "description": "Itens de alta utilidade e qualidade para uso profissional contínuo",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-09-15"
+        },
+        {
+          "id": "p-504",
+          "category": "avaliacao_fornecedores",
+          "title": "Seguro de Responsabilidade Civil & Saúde do Resort",
+          "description": "Verificação da estrutura médica de suporte e plano de emergência",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Clara Silveira",
+          "verifiedAt": "2026-08-25"
+        },
+        {
+          "id": "p-505",
+          "category": "privacidade_lgpd",
+          "title": "Termo de Viagem e Autorização de Registro",
+          "description": "Respeito à privacidade individual durante momentos livres e descanso",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Mariana Duarte",
+          "verifiedAt": "2026-09-12"
+        },
+        {
+          "id": "p-506",
+          "category": "comunicacoes",
+          "title": "Guia do Viajante Revloop Compartilhado",
+          "description": "Manual com horários de voos, transfers, clima e o que levar",
+          "completed": false,
+          "required": true
+        }
+      ],
+      "comments": [
+        {
+          "id": "c-501",
+          "authorName": "Clara Silveira",
+          "authorEmail": "clara.silveira@revloop.com.br",
+          "authorRole": "Head de Operações",
+          "authorAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+          "content": "Todos os voos e reservas de quartos confirmados sem custos extras. Contratamos seguro saúde extra para todas as atividades.",
+          "createdAt": "2026-09-28T10:00:00Z",
+          "isOwnerNote": true
+        }
+      ],
+      "resources": [
+        {
+          "id": "r-501",
+          "type": "drive",
+          "title": "Planilha Geral de Logística de Voos e Quartos",
+          "url": "https://docs.google.com/spreadsheets/d/revloop-offsite-logistica",
+          "metadata": "Google Sheets"
+        },
+        {
+          "id": "r-502",
+          "type": "slack",
+          "title": "Canal #offsite-revloop-floripa-2026",
+          "url": "https://revloop.slack.com/archives/C09FLORIPA",
+          "metadata": "Slack · 138 membros"
+        },
+        {
+          "id": "r-503",
+          "type": "notion",
+          "title": "Playbook: Encontros de Equipe & Offsites Revloop",
+          "url": "https://notion.so/revloop/playbook-encontros-de-equipe-offsite",
+          "metadata": "Notion"
+        }
+      ],
+      "activities": [
+        {
+          "id": "a-501",
+          "timestamp": "2026-09-28T10:00:00Z",
+          "actorName": "Clara Silveira",
+          "actorEmail": "clara.silveira@revloop.com.br",
+          "action": "Marco Concluído",
+          "details": "Emissão de passagens aéreas e mapeamento de transfer concluídos.",
+          "category": "tarefa"
+        }
+      ]
+    },
+    {
+      "id": "evt-2026-006",
+      "title": "Revloop Meetup SP #14: Arquitetura de Dados de Receita",
+      "type": "meetup",
+      "targetAudience": "Engenheiros de Dados, Líderes de RevOps e Arquitetos de Solução",
+      "objective": "Fortalecer a comunidade técnica de RevOps em São Paulo através de palestras práticas sobre integração de CRM, ERP e Data Lakehouse.",
+      "designatedOwnerName": "Jesse Ribeiro",
+      "designatedOwnerEmail": "jr.jesse@revloop.com.br",
+      "requestedByName": "Jesse Ribeiro",
+      "requestedByEmail": "jr.jesse@revloop.com.br",
+      "createdAt": "2026-07-10T10:00:00Z",
+      "updatedAt": "2026-08-22T22:00:00Z",
+      "startDate": "2026-08-20T19:00:00",
+      "endDate": "2026-08-20T22:00:00",
+      "format": "presencial",
+      "location": "Cubo Itaú - 5º Andar, Alameda Vicente Pinzon, 54 - Vila Olímpia, São Paulo - SP",
+      "budget": 12000,
+      "spentBudget": 11450,
+      "estimatedAttendees": 100,
+      "actualAttendees": 114,
+      "suppliers": [
+        "Cubo Itaú Eventos",
+        "Choperia & Pizza Artesanal SP",
+        "EcoStickers Brasil"
+      ],
+      "status": "concluido",
+      "health": "concluido",
+      "policyComplianceScore": 100,
+      "notes": "Evento com taxa de presença de 92%. NPS de satisfação dos participantes foi 96. Excelente modelo para duplicação para os próximos meetups.",
+      "slackChannel": "#meetups-revloop-sp",
+      "driveFolderUrl": "https://drive.google.com/corp/revloop/meetup-sp-14-assets",
+      "notionPlaybookUrl": "https://notion.so/revloop/playbook-meetups-e-comunidades",
+      "milestones": [
+        {
+          "id": "m-601",
+          "title": "Reserva do Auditório do Cubo Itaú",
+          "dueDate": "2026-07-20",
+          "completed": true,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-602",
+          "title": "Chamada de Palestrantes (Call for Papers)",
+          "dueDate": "2026-07-30",
+          "completed": true,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "divulgacao"
+        },
+        {
+          "id": "m-603",
+          "title": "Execução do Meetup e Gravação das Palestras",
+          "dueDate": "2026-08-20",
+          "completed": true,
+          "ownerName": "Jesse Ribeiro",
+          "phase": "operacao"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "t-601",
+          "title": "Compra de chopp artesanal e pizzas para networking",
+          "category": "fornecedores",
+          "assignedTo": "Jesse Ribeiro",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-08-18",
+          "priority": "media"
+        },
+        {
+          "id": "t-602",
+          "title": "Publicação dos vídeos das palestras no YouTube do Revloop",
+          "category": "marketing",
+          "assignedTo": "Beatriz Fonseca",
+          "assignedEmail": "beatriz.fonseca@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-08-25",
+          "priority": "baixa"
+        }
+      ],
+      "policyChecklist": [
+        {
+          "id": "p-601",
+          "category": "aprovacoes_gerais",
+          "title": "Aprovação de Alçada de Meetup",
+          "description": "Dentro do limite pré-aprovado de R$ 15k para eventos de comunidade",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-07-15"
+        },
+        {
+          "id": "p-602",
+          "category": "acessibilidade",
+          "title": "Local 100% Acessível no Cubo",
+          "description": "Acesso por elevadores e assentos prioritários",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-07-16"
+        },
+        {
+          "id": "p-603",
+          "category": "swag_brindes",
+          "title": "Stickers e Ecobags Recicladas",
+          "description": "Itens certificados ecológicos",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-07-18"
+        },
+        {
+          "id": "p-604",
+          "category": "avaliacao_fornecedores",
+          "title": "Nota Fiscal e Checagem Sanitária",
+          "description": "Fornecedor de alimentos certificado",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-08-10"
+        },
+        {
+          "id": "p-605",
+          "category": "privacidade_lgpd",
+          "title": "Opt-in de Imagem no Sympla/Eventbrite",
+          "description": "Aviso sobre filmagens do evento público",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Jesse Ribeiro",
+          "verifiedAt": "2026-07-25"
+        },
+        {
+          "id": "p-606",
+          "category": "comunicacoes",
+          "title": "Divulgação nas redes do Cubo e Revloop",
+          "description": "Divulgação orgânica em grupos de tecnologia",
+          "completed": true,
+          "required": false,
+          "verifiedBy": "Beatriz Fonseca",
+          "verifiedAt": "2026-08-01"
+        }
+      ],
+      "comments": [
+        {
+          "id": "c-601",
+          "authorName": "Jesse Ribeiro",
+          "authorEmail": "jr.jesse@revloop.com.br",
+          "authorRole": "Event Coordinator",
+          "authorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+          "content": "Meetup um sucesso absoluto. As palestras sobre dbt e pipelines com Snowflake foram muito elogiadas.",
+          "createdAt": "2026-08-21T09:00:00Z",
+          "isOwnerNote": true
+        }
+      ],
+      "resources": [
+        {
+          "id": "r-601",
+          "type": "drive",
+          "title": "Fotos e Gravações em Alta Resolução",
+          "url": "https://drive.google.com/corp/revloop/meetup-14-midia",
+          "metadata": "Google Drive"
+        },
+        {
+          "id": "r-602",
+          "type": "slack",
+          "title": "Canal #meetups-revloop-sp",
+          "url": "https://revloop.slack.com/archives/C07MEETUP",
+          "metadata": "Slack"
+        },
+        {
+          "id": "r-603",
+          "type": "notion",
+          "title": "Playbook: Organização de Meetups Técnicos",
+          "url": "https://notion.so/revloop/playbook-meetups-e-comunidades",
+          "metadata": "Notion"
+        }
+      ],
+      "activities": [
+        {
+          "id": "a-601",
+          "timestamp": "2026-08-21T09:00:00Z",
+          "actorName": "Jesse Ribeiro",
+          "actorEmail": "jr.jesse@revloop.com.br",
+          "action": "Evento Concluído",
+          "details": "Evento realizado com 114 participantes reais e custo de R$ 11.450.",
+          "category": "status"
+        }
+      ]
+    },
+    {
+      "id": "evt-2026-007",
+      "title": "Jantar com Clientes C-Level: Inovação B2B Faria Lima",
+      "type": "jantar_clientes",
+      "targetAudience": "CEOs, CFOs e CROs de fintechs e scale-ups unicórnio",
+      "objective": "Debate executivo sobre previsibilidade de receita em momentos de consolidação de mercado.",
+      "designatedOwnerName": "Lucas Mendes",
+      "designatedOwnerEmail": "lucas.mendes@revloop.com.br",
+      "requestedByName": "Thiago Rocha",
+      "requestedByEmail": "thiago.rocha@revloop.com.br",
+      "createdAt": "2026-06-01T10:00:00Z",
+      "updatedAt": "2026-07-16T12:00:00Z",
+      "startDate": "2026-07-15T19:30:00",
+      "endDate": "2026-07-15T23:30:00",
+      "format": "presencial",
+      "location": "Restaurante Figueira Rubaiyat - Salão Privativo, Rua Haddock Lobo, 1738 - Jardins, São Paulo - SP",
+      "budget": 25000,
+      "spentBudget": 24200,
+      "estimatedAttendees": 20,
+      "actualAttendees": 22,
+      "suppliers": [
+        "Figueira Rubaiyat (Menu Executivo Degustação)",
+        "Sommelier Convidado"
+      ],
+      "status": "concluido",
+      "health": "concluido",
+      "policyComplianceScore": 100,
+      "notes": "2 contratos fechados nas 3 semanas seguintes ao jantar. Retorno sobre investimento de 14x.",
+      "slackChannel": "#dinner-faria-lima-q3",
+      "driveFolderUrl": "https://drive.google.com/corp/revloop/jantar-q3-figueira",
+      "notionPlaybookUrl": "https://notion.so/revloop/playbook-jantar-com-clientes",
+      "milestones": [
+        {
+          "id": "m-701",
+          "title": "Aprovação de Alçada Financeira e Reserva",
+          "dueDate": "2026-06-15",
+          "completed": true,
+          "ownerName": "Lucas Mendes",
+          "phase": "planejamento"
+        },
+        {
+          "id": "m-702",
+          "title": "Execução do Jantar e Agradecimento Pessoal",
+          "dueDate": "2026-07-15",
+          "completed": true,
+          "ownerName": "Thiago Rocha",
+          "phase": "operacao"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "t-701",
+          "title": "Follow-up personalizado de vendas com cada C-Level em até 48h",
+          "category": "marketing",
+          "assignedTo": "Thiago Rocha",
+          "assignedEmail": "thiago.rocha@revloop.com.br",
+          "completed": true,
+          "dueDate": "2026-07-17",
+          "priority": "alta"
+        }
+      ],
+      "policyChecklist": [
+        {
+          "id": "p-701",
+          "category": "aprovacoes_gerais",
+          "title": "Aprovação Executiva",
+          "description": "Validação de alçada pelo VP Lucas Mendes",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Lucas Mendes",
+          "verifiedAt": "2026-06-15"
+        },
+        {
+          "id": "p-702",
+          "category": "acessibilidade",
+          "title": "Acessibilidade de Acesso ao Salão",
+          "description": "Local no térreo sem degraus",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Thiago Rocha",
+          "verifiedAt": "2026-06-20"
+        },
+        {
+          "id": "p-703",
+          "category": "swag_brindes",
+          "title": "Kit Elegante de Boas-Vindas",
+          "description": "Vinho nacional premiado e carta de agradecimento",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Thiago Rocha",
+          "verifiedAt": "2026-07-01"
+        },
+        {
+          "id": "p-704",
+          "category": "avaliacao_fornecedores",
+          "title": "Contrato e NF-e do Restaurante",
+          "description": "Tudo liquidado via faturamento corporativo",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Lucas Mendes",
+          "verifiedAt": "2026-07-10"
+        },
+        {
+          "id": "p-705",
+          "category": "privacidade_lgpd",
+          "title": "Sigilo de Conversas Estratégicas",
+          "description": "Ambiente fechado sem terceiros",
+          "completed": true,
+          "required": true,
+          "verifiedBy": "Lucas Mendes",
+          "verifiedAt": "2026-07-15"
+        },
+        {
+          "id": "p-706",
+          "category": "comunicacoes",
+          "title": "Convites 1-a-1 via WhatsApp Executivo",
+          "description": "Alinhamento direto de agenda com os convidados",
+          "completed": true,
+          "required": false,
+          "verifiedBy": "Thiago Rocha",
+          "verifiedAt": "2026-06-25"
+        }
+      ],
+      "comments": [
+        {
+          "id": "c-701",
+          "authorName": "Lucas Mendes",
+          "authorEmail": "lucas.mendes@revloop.com.br",
+          "authorRole": "VP de Marketing",
+          "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+          "content": "Evento impecável. Recomendo utilizar como base para todos os nossos próximos jantares com clientes.",
+          "createdAt": "2026-07-16T10:00:00Z",
+          "isOwnerNote": true
+        }
+      ],
+      "resources": [
+        {
+          "id": "r-701",
+          "type": "drive",
+          "title": "Planilha de Atribuição de Oportunidades & Pipeline",
+          "url": "https://docs.google.com/spreadsheets/d/revloop-dinner-roi",
+          "metadata": "Google Sheets"
+        },
+        {
+          "id": "r-702",
+          "type": "slack",
+          "title": "Canal #dinner-faria-lima-q3",
+          "url": "https://revloop.slack.com/archives/C06DINNER",
+          "metadata": "Slack"
+        },
+        {
+          "id": "r-703",
+          "type": "notion",
+          "title": "Playbook: Jantar com Clientes",
+          "url": "https://notion.so/revloop/playbook-jantar-com-clientes",
+          "metadata": "Notion"
+        }
+      ],
+      "activities": [
+        {
+          "id": "a-701",
+          "timestamp": "2026-07-16T12:00:00Z",
+          "actorName": "Lucas Mendes",
+          "actorEmail": "lucas.mendes@revloop.com.br",
+          "action": "Evento Concluído",
+          "details": "Evento finalizado com sucesso com 22 decisores presentes.",
+          "category": "status"
+        }
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "id": "tpl-meetup",
+      "name": "Meetup Comunitário & Técnico",
+      "type": "meetup",
+      "description": "Encontro presencial descontraído de 2h a 3h para conectar desenvolvedores, analistas e líderes de RevOps com palestras e coffee/chopp.",
+      "recommendedAttendees": "60 - 120 participantes",
+      "estimatedBudgetRange": "R$ 8.000 - R$ 15.000",
+      "leadTimeDays": 30,
+      "defaultFormat": "presencial",
+      "tags": [
+        "Comunidade",
+        "Tech",
+        "Presencial",
+        "Talks"
+      ],
+      "defaultMilestones": [
+        {
+          "title": "Definição do Espaço e Reserva de Data",
+          "dueDate": "+7 dias",
+          "ownerName": "Coordenador do Evento",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Confirmação dos Palestrantes e Temas Técnicos",
+          "dueDate": "+14 dias",
+          "ownerName": "Curador de Conteúdo",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Abertura das Inscrições na Plataforma (Sympla/Luma)",
+          "dueDate": "+18 dias",
+          "ownerName": "Marketing",
+          "phase": "divulgacao"
+        },
+        {
+          "title": "Contratação do Coffee Break / Chopp e Brindes",
+          "dueDate": "+24 dias",
+          "ownerName": "Logística",
+          "phase": "operacao"
+        },
+        {
+          "title": "Execução do Meetup e Check-in com QR Code",
+          "dueDate": "+30 dias",
+          "ownerName": "Responsável Designado",
+          "phase": "operacao"
+        }
+      ],
+      "defaultTasks": [
+        {
+          "title": "Verificar conexão de internet cabeada e microfones do espaço",
+          "category": "logistica",
+          "assignedTo": "Tech Lead",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "dueDate": "+25 dias",
+          "priority": "alta"
+        },
+        {
+          "title": "Encomendar adesivos e crachás recicláveis com a marca Revloop",
+          "category": "fornecedores",
+          "assignedTo": "Designer",
+          "assignedEmail": "beatriz.fonseca@revloop.com.br",
+          "dueDate": "+20 dias",
+          "priority": "media"
+        },
+        {
+          "title": "Disparar email de lembrete 24h antes para os inscritos",
+          "category": "marketing",
+          "assignedTo": "Marketing Ops",
+          "assignedEmail": "beatriz.fonseca@revloop.com.br",
+          "dueDate": "+29 dias",
+          "priority": "alta"
+        }
+      ],
+      "defaultPolicyItems": [
+        {
+          "category": "aprovacoes_gerais",
+          "title": "Alçada Financeira Aprovada",
+          "description": "Validação pelo responsável do budget previsto",
+          "required": true
+        },
+        {
+          "category": "acessibilidade",
+          "title": "Acessibilidade de Acesso e Sanitários",
+          "description": "Espaço com rampa ou elevador e banheiro adaptado",
+          "required": true
+        },
+        {
+          "category": "swag_brindes",
+          "title": "Adesivos e Itens Ecológicos",
+          "description": "Sem brindes plásticos descartáveis",
+          "required": false
+        },
+        {
+          "category": "avaliacao_fornecedores",
+          "title": "Fornecedor de Alimentos Homologado",
+          "description": "Checagem sanitária e opções vegetarianas",
+          "required": true
+        },
+        {
+          "category": "privacidade_lgpd",
+          "title": "Aviso de Gravação e Foto (LGPD)",
+          "description": "Termo de imagem na página de inscrição",
+          "required": true
+        },
+        {
+          "category": "comunicacoes",
+          "title": "Divulgação nas Redes e Comunidades",
+          "description": "Post oficial de divulgação em canais aprovados",
+          "required": false
+        }
+      ],
+      "defaultResourceTemplates": [
+        {
+          "type": "drive",
+          "title": "Template de Apresentação Slides Revloop Meetup",
+          "url": "https://docs.google.com/presentation/d/revloop-template-meetup",
+          "description": "Deck oficial de abertura e fechamento"
+        },
+        {
+          "type": "slack",
+          "title": "Canal de Coordenação #meetups-revloop",
+          "url": "https://revloop.slack.com/archives/C_MEETUPS",
+          "description": "Canal geral de avisos"
+        },
+        {
+          "type": "notion",
+          "title": "Playbook: Organização de Meetups Técnicos",
+          "url": "https://notion.so/revloop/playbook-meetups-e-comunidades",
+          "description": "Passo a passo com cronograma min-a-min"
+        }
+      ]
+    },
+    {
+      "id": "tpl-jantar",
+      "name": "Jantar com Clientes (C-Level VIP)",
+      "type": "jantar_clientes",
+      "targetAudience": "12 a 25 executivos C-Level, Diretores e decisores de contas estratégicas",
+      "description": "Experiência gastronômica intimista e sofisticada em sala privativa de restaurante de alta gastronomia para conversas de negócios e relacionamento.",
+      "recommendedAttendees": "12 - 25 convidados VIPs",
+      "estimatedBudgetRange": "R$ 18.000 - R$ 35.000",
+      "leadTimeDays": 25,
+      "defaultFormat": "presencial",
+      "tags": [
+        "Executivo",
+        "Vendas",
+        "C-Level",
+        "VIP",
+        "Relacionamento"
+      ],
+      "defaultMilestones": [
+        {
+          "title": "Seleção do Restaurante com Sala Privativa e Acústica Isolada",
+          "dueDate": "+5 dias",
+          "ownerName": "Responsável Designado",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Aprovação de Alçada Executiva e Bloqueio de Orçamento",
+          "dueDate": "+7 dias",
+          "ownerName": "VP / Diretor",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Curadoria da Lista de Convidados e Convites Pessoais 1-a-1",
+          "dueDate": "+12 dias",
+          "ownerName": "Time de Vendas",
+          "phase": "divulgacao"
+        },
+        {
+          "title": "Mapeamento de Restrições Alimentares e Menu Degustação",
+          "dueDate": "+18 dias",
+          "ownerName": "Coordenador",
+          "phase": "operacao"
+        },
+        {
+          "title": "Execução do Jantar e Follow-up Comercial em 48h",
+          "dueDate": "+25 dias",
+          "ownerName": "Responsável Designado",
+          "phase": "pos_evento"
+        }
+      ],
+      "defaultTasks": [
+        {
+          "title": "Briefing individual para os executivos Revloop que participarão da mesa",
+          "category": "conteudo",
+          "assignedTo": "Sales Lead",
+          "assignedEmail": "thiago.rocha@revloop.com.br",
+          "dueDate": "+22 dias",
+          "priority": "alta"
+        },
+        {
+          "title": "Preparação do cardápio impresso com identidade Revloop sutil",
+          "category": "marketing",
+          "assignedTo": "Designer",
+          "assignedEmail": "beatriz.fonseca@revloop.com.br",
+          "dueDate": "+20 dias",
+          "priority": "media"
+        },
+        {
+          "title": "Checagem de contrato de faturamento direto sem cartão corporativo de funcionário",
+          "category": "financeiro",
+          "assignedTo": "Financeiro",
+          "assignedEmail": "clara.silveira@revloop.com.br",
+          "dueDate": "+15 dias",
+          "priority": "alta"
+        }
+      ],
+      "defaultPolicyItems": [
+        {
+          "category": "aprovacoes_gerais",
+          "title": "Alçada Financeira de VP Obrigatória",
+          "description": "Assinatura formal do VP de Marketing ou Vendas",
+          "required": true
+        },
+        {
+          "category": "acessibilidade",
+          "title": "Acesso sem Barreiras Arquitetônicas",
+          "description": "Salão com acessibilidade plena garantida",
+          "required": true
+        },
+        {
+          "category": "swag_brindes",
+          "title": "Conformidade de Hospitalidade e Ética",
+          "description": "Lembrança dentro dos limites de compliance de empresas abertas",
+          "required": true
+        },
+        {
+          "category": "avaliacao_fornecedores",
+          "title": "Restaurante Homologado com NF Corporativa",
+          "description": "Contrato faturado no CNPJ da Revloop",
+          "required": true
+        },
+        {
+          "category": "privacidade_lgpd",
+          "title": "Sigilo de Informações Estratégicas",
+          "description": "Sala fechada e confidencialidade da lista de convidados",
+          "required": true
+        },
+        {
+          "category": "comunicacoes",
+          "title": "Comunicação Estritamente Reservada",
+          "description": "Sem posts públicos identificando convidados sem consentimento",
+          "required": true
+        }
+      ],
+      "defaultResourceTemplates": [
+        {
+          "type": "drive",
+          "title": "Planilha de Gestão de Convidados VIP & Follow-up",
+          "url": "https://docs.google.com/spreadsheets/d/revloop-template-jantar-vips",
+          "description": "Template oficial de CRM de participantes"
+        },
+        {
+          "type": "slack",
+          "title": "Canal Privado de Alinhamento Comercial",
+          "url": "https://revloop.slack.com/archives/C_DINNERS",
+          "description": "Coordenação com time de Account Executives"
+        },
+        {
+          "type": "notion",
+          "title": "Playbook: Jantar com Clientes C-Level",
+          "url": "https://notion.so/revloop/playbook-jantar-com-clientes",
+          "description": "Regras de etiqueta, temas e conversas"
+        }
+      ]
+    },
+    {
+      "id": "tpl-webinar",
+      "name": "Webinar Estratégico & Masterclass",
+      "type": "webinar",
+      "targetAudience": "Comunidade geral B2B, leads em consideração e usuários da plataforma",
+      "description": "Apresentação ao vivo de 60 a 90 minutos focada em geração de demanda, demonstração de valor prático e captação de leads qualificados.",
+      "recommendedAttendees": "300 - 1.000 inscritos online",
+      "estimatedBudgetRange": "R$ 3.000 - R$ 8.000",
+      "leadTimeDays": 20,
+      "defaultFormat": "virtual",
+      "tags": [
+        "Virtual",
+        "Geração de Leads",
+        "Demanda",
+        "Live",
+        "Escala"
+      ],
+      "defaultMilestones": [
+        {
+          "title": "Definição do Tema, Hosts e Palestrante Convidado",
+          "dueDate": "+5 dias",
+          "ownerName": "Product Marketing",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Criação da Landing Page e Automação de Inscrição",
+          "dueDate": "+8 dias",
+          "ownerName": "Marketing Ops",
+          "phase": "divulgacao"
+        },
+        {
+          "title": "Divulgação em Base de E-mails e Campanhas Pagas",
+          "dueDate": "+12 dias",
+          "ownerName": "Growth Lead",
+          "phase": "divulgacao"
+        },
+        {
+          "title": "Ensaio Técnico (Dry Run) com Palestrantes no Zoom",
+          "dueDate": "+18 dias",
+          "ownerName": "Tech Lead",
+          "phase": "operacao"
+        },
+        {
+          "title": "Transmissão Ao Vivo e Disparo de Gravação em 24h",
+          "dueDate": "+20 dias",
+          "ownerName": "Responsável Designado",
+          "phase": "operacao"
+        }
+      ],
+      "defaultTasks": [
+        {
+          "title": "Testar conexão, microfone condensador e iluminação dos apresentadores",
+          "category": "logistica",
+          "assignedTo": "Tech Lead",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "dueDate": "+18 dias",
+          "priority": "alta"
+        },
+        {
+          "title": "Criar perguntas de engajamento (Polls) e roteiro de moderação de Q&A",
+          "category": "conteudo",
+          "assignedTo": "PMM",
+          "assignedEmail": "beatriz.fonseca@revloop.com.br",
+          "dueDate": "+17 dias",
+          "priority": "media"
+        },
+        {
+          "title": "Configurar pontuação de Lead Scoring no CRM para quem assistiu ao vivo",
+          "category": "marketing",
+          "assignedTo": "RevOps",
+          "assignedEmail": "lucas.mendes@revloop.com.br",
+          "dueDate": "+19 dias",
+          "priority": "alta"
+        }
+      ],
+      "defaultPolicyItems": [
+        {
+          "category": "aprovacoes_gerais",
+          "title": "Orçamento de Mídia Aprovado",
+          "description": "Alocação de verba de anúncios aprovada",
+          "required": true
+        },
+        {
+          "category": "acessibilidade",
+          "title": "Legendas Ao Vivo e Transcrição",
+          "description": "Closed captions automáticas ativadas no software de streaming",
+          "required": true
+        },
+        {
+          "category": "swag_brindes",
+          "title": "Material Digital Educativo",
+          "description": "Guia em PDF / checklist interativo sem resíduos",
+          "required": false
+        },
+        {
+          "category": "avaliacao_fornecedores",
+          "title": "Plataforma Estável e Segura",
+          "description": "Zoom Webinar com controle de moderação e gravação na nuvem",
+          "required": true
+        },
+        {
+          "category": "privacidade_lgpd",
+          "title": "Opt-in de Comunicação na Inscrição",
+          "description": "Caixa de seleção clara sobre recebimento de emails do Revloop",
+          "required": true
+        },
+        {
+          "category": "comunicacoes",
+          "title": "Lembretes Automatizados 24h e 1h antes",
+          "description": "Template de e-mail responsivo e limpo",
+          "required": true
+        }
+      ],
+      "defaultResourceTemplates": [
+        {
+          "type": "drive",
+          "title": "Template de Slides 16:9 para Webinar Revloop",
+          "url": "https://docs.google.com/presentation/d/revloop-template-webinar-slides",
+          "description": "Template visual com paleta de alta legibilidade"
+        },
+        {
+          "type": "slack",
+          "title": "Canal #webinars-revloop",
+          "url": "https://revloop.slack.com/archives/C_WEBINARS",
+          "description": "Comunicação com equipe de apoio em tempo real"
+        },
+        {
+          "type": "notion",
+          "title": "Playbook: Webinars Estratégicos & Conversão B2B",
+          "url": "https://notion.so/revloop/playbook-webinars-estrategicos",
+          "description": "Checklist técnico e boas práticas de apresentação"
+        }
+      ]
+    },
+    {
+      "id": "tpl-recrutamento",
+      "name": "Evento de Recrutamento (Tech Talent Day)",
+      "type": "recrutamento",
+      "targetAudience": "Profissionais de tecnologia, produto e dados do ecossistema",
+      "description": "Encontro dinâmico presencial ou híbrido com foco em atração, avaliação cultural, apresentação da pilha de tecnologia e contratação ágil.",
+      "recommendedAttendees": "40 - 80 candidatos selecionados",
+      "estimatedBudgetRange": "R$ 12.000 - R$ 22.000",
+      "leadTimeDays": 30,
+      "defaultFormat": "hibrido",
+      "tags": [
+        "Recrutamento",
+        "RH",
+        "Engenharia",
+        "Talentos",
+        "Cultura"
+      ],
+      "defaultMilestones": [
+        {
+          "title": "Definição de Vagas Abertas e Perfil Ideal com Engenharia",
+          "dueDate": "+7 dias",
+          "ownerName": "People Lead",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Lançamento de Divulgação em Comunidades Técnicas",
+          "dueDate": "+12 dias",
+          "ownerName": "Tech Recruiter",
+          "phase": "divulgacao"
+        },
+        {
+          "title": "Triagem e Envio de Convites aos Candidatos Selecionados",
+          "dueDate": "+22 dias",
+          "ownerName": "People Lead",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Realização do Tech Day com Dinâmica e Speed Interviews",
+          "dueDate": "+30 dias",
+          "ownerName": "Responsável Designado",
+          "phase": "operacao"
+        },
+        {
+          "title": "Envio de Propostas e Feedbacks a 100% dos Participantes em 5 dias",
+          "dueDate": "+35 dias",
+          "ownerName": "People Lead",
+          "phase": "pos_evento"
+        }
+      ],
+      "defaultTasks": [
+        {
+          "title": "Treinamento de entrevistadores internos contra vieses inconscientes",
+          "category": "conteudo",
+          "assignedTo": "People Lead",
+          "assignedEmail": "mariana.duarte@revloop.com.br",
+          "dueDate": "+26 dias",
+          "priority": "alta"
+        },
+        {
+          "title": "Preparação do ambiente de live-coding e links de repositório de teste",
+          "category": "logistica",
+          "assignedTo": "Tech Lead",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "dueDate": "+27 dias",
+          "priority": "alta"
+        },
+        {
+          "title": "Encomenda de kits de boas-vindas para os participantes",
+          "category": "fornecedores",
+          "assignedTo": "People Ops",
+          "assignedEmail": "mariana.duarte@revloop.com.br",
+          "dueDate": "+20 dias",
+          "priority": "media"
+        }
+      ],
+      "defaultPolicyItems": [
+        {
+          "category": "aprovacoes_gerais",
+          "title": "Alinhamento com Headcount Aprovado",
+          "description": "Validação pelo People Lead e Financeiro",
+          "required": true
+        },
+        {
+          "category": "acessibilidade",
+          "title": "Inclusão e Diversidade Garantidas",
+          "description": "Estrutura acessível a PCDs e ambiente psicologicamente seguro",
+          "required": true
+        },
+        {
+          "category": "swag_brindes",
+          "title": "Kits Étnica e Ambientalmente Responsáveis",
+          "description": "Brindes sem distinção de gênero e de material reciclado",
+          "required": true
+        },
+        {
+          "category": "avaliacao_fornecedores",
+          "title": "Alimentação Inclusiva no Espaço",
+          "description": "Opções dietéticas para celíacos, veganos e intolerantes",
+          "required": true
+        },
+        {
+          "category": "privacidade_lgpd",
+          "title": "Proteção de Dados Curriculares (LGPD)",
+          "description": "Termo de retenção de dados e descarte seguro em até 12 meses",
+          "required": true
+        },
+        {
+          "category": "comunicacoes",
+          "title": "Comunicação Transparente de Etapas",
+          "description": "Garantia de retorno formal a todos os candidatos",
+          "required": true
+        }
+      ],
+      "defaultResourceTemplates": [
+        {
+          "type": "drive",
+          "title": "Matriz de Avaliação de Competências Técnicas & Culturais",
+          "url": "https://docs.google.com/spreadsheets/d/revloop-recruiting-scorecard",
+          "description": "Planilha de pontuação padronizada"
+        },
+        {
+          "type": "slack",
+          "title": "Canal #recruiting-day-war-room",
+          "url": "https://revloop.slack.com/archives/C_RECRUIT",
+          "description": "Canal privado dos entrevistadores"
+        },
+        {
+          "type": "notion",
+          "title": "Playbook: Eventos de Recrutamento & D&I",
+          "url": "https://notion.so/revloop/playbook-eventos-de-recrutamento",
+          "description": "Guia anti-viés e conduta"
+        }
+      ]
+    },
+    {
+      "id": "tpl-offsite",
+      "name": "Encontro da Equipe (Offsite Revloop)",
+      "type": "offsite",
+      "targetAudience": "100% da empresa ou departamento específico em imersão",
+      "description": "Imersão de 2 a 3 dias fora do escritório tradicional com alinhamento estratégico da liderança, workshops de visão de futuro, celebração e teambuilding.",
+      "recommendedAttendees": "40 - 200 colaboradores",
+      "estimatedBudgetRange": "R$ 80.000 - R$ 250.000",
+      "leadTimeDays": 60,
+      "defaultFormat": "presencial",
+      "tags": [
+        "Cultura",
+        "Alinhamento",
+        "Offsite",
+        "Teambuilding",
+        "Empresa"
+      ],
+      "defaultMilestones": [
+        {
+          "title": "Aprovação de Alçada Orçamentária com a Diretoria Executiva",
+          "dueDate": "+10 dias",
+          "ownerName": "Head de Operações",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Escolha e Assinatura do Hotel / Resort com Sala de Convenções",
+          "dueDate": "+20 dias",
+          "ownerName": "Responsável Designado",
+          "phase": "planejamento"
+        },
+        {
+          "title": "Mapeamento de Voos, Transfers e Seguro Viagem Coletivo",
+          "dueDate": "+35 dias",
+          "ownerName": "Operações & RH",
+          "phase": "operacao"
+        },
+        {
+          "title": "Construção da Grade de Apresentações e Atividades Culturais",
+          "dueDate": "+45 dias",
+          "ownerName": "Liderança",
+          "phase": "conteudo"
+        },
+        {
+          "title": "Realização do Offsite e Retrospectiva Anônima da Experiência",
+          "dueDate": "+60 dias",
+          "ownerName": "Responsável Designado",
+          "phase": "pos_evento"
+        }
+      ],
+      "defaultTasks": [
+        {
+          "title": "Contratação de apólice de seguro de viagem para 100% dos participantes",
+          "category": "financeiro",
+          "assignedTo": "Operações",
+          "assignedEmail": "clara.silveira@revloop.com.br",
+          "dueDate": "+30 dias",
+          "priority": "alta"
+        },
+        {
+          "title": "Auditoria de acessibilidade dos quartos e salas de convenção do hotel",
+          "category": "logistica",
+          "assignedTo": "Coordenador",
+          "assignedEmail": "jr.jesse@revloop.com.br",
+          "dueDate": "+25 dias",
+          "priority": "alta"
+        },
+        {
+          "title": "Mapeamento e confirmação de dietas alimentares e necessidades médicas",
+          "category": "logistica",
+          "assignedTo": "People Ops",
+          "assignedEmail": "mariana.duarte@revloop.com.br",
+          "dueDate": "+40 dias",
+          "priority": "alta"
+        },
+        {
+          "title": "Envio do Guia do Viajante Revloop com 15 dias de antecedência",
+          "category": "conteudo",
+          "assignedTo": "Operações",
+          "assignedEmail": "clara.silveira@revloop.com.br",
+          "dueDate": "+45 dias",
+          "priority": "media"
+        }
+      ],
+      "defaultPolicyItems": [
+        {
+          "category": "aprovacoes_gerais",
+          "title": "Alçada Executiva Diretoria / CEO",
+          "description": "Assinatura formal do plano de custos e alocação orçamentária anual",
+          "required": true
+        },
+        {
+          "category": "acessibilidade",
+          "title": "Acessibilidade Plena de Hospedagem e Transporte",
+          "description": "Veículos adaptados e quartos acessíveis reservados prioritariamente",
+          "required": true
+        },
+        {
+          "category": "swag_brindes",
+          "title": "Brindes Funcionais de Alta Durabilidade",
+          "description": "Itens úteis de vestuário ou viagem que evitam descarte imediato",
+          "required": true
+        },
+        {
+          "category": "avaliacao_fornecedores",
+          "title": "Homologação de Hotel, Ônibus e Seguradora",
+          "description": "Certidões negativas, seguros e conformidade trabalhista",
+          "required": true
+        },
+        {
+          "category": "privacidade_lgpd",
+          "title": "Termo de Privacidade e Momentos de Descanso",
+          "description": "Proibição de gravações invasivas durante períodos de lazer individual",
+          "required": true
+        },
+        {
+          "category": "comunicacoes",
+          "title": "Canal de Emergência 24h & Guia do Viajante",
+          "description": "Telefone do plantão e orientações claras para qualquer imprevisto",
+          "required": true
+        }
+      ],
+      "defaultResourceTemplates": [
+        {
+          "type": "drive",
+          "title": "Planilha Consolidada de Voos, Quartos e Logística",
+          "url": "https://docs.google.com/spreadsheets/d/revloop-template-offsite-logistica",
+          "description": "Planilha mestre de controle"
+        },
+        {
+          "type": "slack",
+          "title": "Canal Temporário #offsite-revloop",
+          "url": "https://revloop.slack.com/archives/C_OFFSITE",
+          "description": "Canal oficial para todos os colaboradores"
+        },
+        {
+          "type": "notion",
+          "title": "Playbook: Encontros de Equipe & Offsites Revloop",
+          "url": "https://notion.so/revloop/playbook-encontros-de-equipe-offsite",
+          "description": "Orientações completas de segurança e logística"
+        }
+      ]
+    }
+  ],
+  "playbooks": [
+    {
+      "id": "pb-aprovacoes",
+      "title": "Diretrizes de Governança, Alçadas & Aprovações de Eventos Revloop",
+      "category": "aprovacoes_gerais",
+      "version": "3.2 (2026)",
+      "updatedAt": "2026-09-15",
+      "summary": "Define limites de gastos, responsabilidades do Responsável Designado e fluxo de sign-off com Controladoria e Diretoria.",
+      "fullContent": "### 1. Princípios Gerais de Governança\nTodo evento promovido em nome da Revloop.com.br deve possuir um **Responsável Designado** formalmente nomeado no momento da solicitação. Esse profissional torna-se o guardião do orçamento, da conformidade com as diretrizes e da experiência dos participantes.\n\n### 2. Tabela de Alçadas Financeiras\n- **Até R$ 15.000,00:** Aprovação direta pelo Responsável Designado (Coordenador de Eventos ou Gerente de Área).\n- **R$ 15.001,00 a R$ 60.000,00:** Exige aprovação de VP de Marketing, Vendas ou Operações.\n- **Acima de R$ 60.001,00:** Exige validação prévia da Controladoria e aprovação conjunta da Diretoria Executiva.\n\n### 3. Responsabilidade Exclusiva de Aceite/Rejeição\nConforme política de segurança da informação e governança corporativa, **apenas o Responsável Designado tem autoridade no sistema para aceitar ou rejeitar a solicitação**. Essa regra é validada pelo servidor e auditada em log permanente.",
+      "notionUrl": "https://notion.so/revloop/playbook-aprovacoes-gerais-alçadas",
+      "mandatoryFor": [
+        "meetup",
+        "jantar_clientes",
+        "webinar",
+        "recrutamento",
+        "offsite",
+        "conferencia",
+        "workshop"
+      ]
+    },
+    {
+      "id": "pb-acessibilidade",
+      "title": "Guia Corporativo de Acessibilidade Física, Digital & Inclusão",
+      "category": "acessibilidade",
+      "version": "2.4 (2026)",
+      "updatedAt": "2026-08-20",
+      "summary": "Padrões obrigatórios para garantir que todos os eventos da Revloop sejam 100% acessíveis para todas as pessoas.",
+      "fullContent": "### 1. Espaços Físicos e Presenciais\n- Rotas sem degraus ou com rampas de inclinação máxima de 8% (NBR 9050).\n- Elevadores operacionais e sanitários unissex adaptados.\n- Reserva de 5% de assentos prioritários na primeira fileira com visão desimpedida.\n- Espaço silencioso de descompressão para pessoas neurodivergentes em eventos com mais de 100 pessoas.\n\n### 2. Eventos Virtuais e Transmissões\n- Ativação obrigatória de Closed Captions (legendagem em tempo real).\n- Contraste de cor mínimo de 4.5:1 em todos os slides de apresentação (padrão WCAG AA).\n- Intérprete de Libras em eventos corporativos abertos ao público externo com mais de 200 inscritos.",
+      "notionUrl": "https://notion.so/revloop/playbook-acessibilidade-e-inclusao",
+      "mandatoryFor": [
+        "meetup",
+        "jantar_clientes",
+        "webinar",
+        "recrutamento",
+        "offsite",
+        "conferencia",
+        "workshop"
+      ]
+    },
+    {
+      "id": "pb-swag",
+      "title": "Política de Brindes (Swag), Sustentabilidade & Descarte Zero",
+      "category": "swag_brindes",
+      "version": "1.9 (2026)",
+      "updatedAt": "2026-07-10",
+      "summary": "Diretrizes para produção e distribuição de materiais promocionais ecológicos, úteis e duráveis.",
+      "fullContent": "### 1. Proibição de Itens Descartáveis\nÉ expressamente proibida a contratação de brindes plásticos de uso único (canetas descartáveis de baixa qualidade, balões de látex, copos plásticos finos e chaveiros genéricos).\n\n### 2. Padrão Sustentável Revloop\n- Têxteis: 100% algodão orgânico certificado ou tecidos reciclados PET com tag de rastreabilidade.\n- Papelaria: Papel semente plantável ou papel kraft 100% reciclado pós-consumo.\n- Embalagens: Sem sacolas plásticas; utilizar tote bags reutilizáveis de sarja crua.\n- Priorizar ativos digitais de alto valor (cursos, e-books, créditos na plataforma) em substituição a brindes físicos descartáveis.",
+      "notionUrl": "https://notion.so/revloop/politica-swag-sustentabilidade",
+      "mandatoryFor": [
+        "meetup",
+        "jantar_clientes",
+        "recrutamento",
+        "offsite",
+        "conferencia"
+      ]
+    },
+    {
+      "id": "pb-fornecedores",
+      "title": "Homologação, SLA & Avaliação de Segurança de Fornecedores",
+      "category": "avaliacao_fornecedores",
+      "version": "3.0 (2026)",
+      "updatedAt": "2026-09-01",
+      "summary": "Procedimentos para contratação de prestadores de serviços, verificação cadastral e prevenção de riscos.",
+      "fullContent": "### 1. Requisitos Mínimos Cadastrais\n- CNPJ ativo há pelo menos 24 meses no ramo compatível de atuação.\n- Certidão Negativa de Débitos Trabalhistas (CNDT) e regularidade perante o FGTS.\n- Apólice de Seguro de Responsabilidade Civil para empresas de montagem cenográfica, iluminação e transporte de passageiros.\n\n### 2. Faturamento e Pagamentos\n- Emissão de Nota Fiscal Eletrônica (NF-e) direta em nome de Revloop Tecnologia Brasil Ltda.\n- Prazos de pagamento padrão: 15 ou 28 dias após a entrega do serviço e validação do ateste técnico.\n- Qualquer sinal antecipado superior a 40% requer aprovação prévia do Financeiro.",
+      "notionUrl": "https://notion.so/revloop/homologacao-fornecedores-eventos",
+      "mandatoryFor": [
+        "meetup",
+        "jantar_clientes",
+        "webinar",
+        "recrutamento",
+        "offsite",
+        "conferencia",
+        "workshop"
+      ]
+    },
+    {
+      "id": "pb-privacidade",
+      "title": "Compliance LGPD, Termos de Consentimento & Retenção de Dados",
+      "category": "privacidade_lgpd",
+      "version": "2.1 (2026)",
+      "updatedAt": "2026-08-30",
+      "summary": "Regras de ouro para coleta, tratamento e guarda de dados pessoais de participantes e convidados de eventos.",
+      "fullContent": "### 1. Consentimento e Opt-in\n- Os formulários de credenciamento devem conter checkbox desmarcado para opt-in de recebimento de comunicações comerciais.\n- Aviso claro e ostensivo na entrada de eventos presenciais informando sobre a gravação audiovisual e fotografia no recinto.\n\n### 2. Sigilo Comercial de Convidados\n- Em jantares e mesas redondas executivas fechadas, a lista de participantes não deve ser compartilhada publicamente ou exposta sem autorização explícita de cada executivo convidado.\n- Os dados curriculares coletados em Tech Talent Days são restritos à equipe de People e deletados após 12 meses caso não haja contratação.",
+      "notionUrl": "https://notion.so/revloop/compliance-lgpd-eventos",
+      "mandatoryFor": [
+        "meetup",
+        "jantar_clientes",
+        "webinar",
+        "recrutamento",
+        "offsite",
+        "conferencia",
+        "workshop"
+      ]
+    },
+    {
+      "id": "pb-comunicacoes",
+      "title": "Guia de Comunicação, Divulgação de Marca & Mídia Pré/Pós Evento",
+      "category": "comunicacoes",
+      "version": "2.0 (2026)",
+      "updatedAt": "2026-09-05",
+      "summary": "Manual de tom de voz, calendário de disparo de e-mails e materiais de imprensa homologados.",
+      "fullContent": "### 1. Tom de Voz da Marca Revloop\nO Revloop comunica-se de maneira técnica, precisa, empática e visionária. Evitar jargões vazios de marketing; focar em dados de impacto real em receita e excelência operacional.\n\n### 2. Cadência Padrão de Divulgação\n- **D-30:** Anúncio do evento e abertura de inscrições VIP/Early Bird.\n- **D-15:** Apresentação da grade de conteúdo e cases dos palestrantes.\n- **D-7:** E-mail de alinhamento logístico para confirmados.\n- **D-1 (24h antes):** Lembrete com link de calendário e instruções de acesso / credenciamento.\n- **D+1:** Disparo de agradecimento, materiais de apresentação e pesquisa de NPS.",
+      "notionUrl": "https://notion.so/revloop/guia-comunicacao-marca-eventos",
+      "mandatoryFor": [
+        "meetup",
+        "webinar",
+        "recrutamento",
+        "conferencia"
+      ]
+    }
+  ],
+  "connectedSources": [
+    {
+      "id": "source-calendar",
+      "source": "google_calendar",
+      "name": "Google Agenda Corporativa",
+      "status": "conectado",
+      "accountOrWorkspace": "eventos@revloop.com.br",
+      "lastSync": "Hoje às 15:40",
+      "details": "Verificação contínua de choque de datas com All-Hands, sprints e feriados de SP/Brasil",
+      "itemCount": 42
+    },
+    {
+      "id": "source-slack",
+      "source": "slack",
+      "name": "Slack Revloop Workspace",
+      "status": "conectado",
+      "accountOrWorkspace": "revloop.slack.com",
+      "lastSync": "Há 5 minutos",
+      "details": "Monitorando 8 canais de coordenação e disparando alertas automáticos de aprovações",
+      "itemCount": 8
+    },
+    {
+      "id": "source-drive",
+      "source": "google_drive",
+      "name": "Google Drive Enterprise",
+      "status": "sincronizado",
+      "accountOrWorkspace": "drive.google.com/corp/revloop-eventos",
+      "lastSync": "Hoje às 14:15",
+      "details": "Acesso direto a briefings, orçamentos, run-of-shows e ativos de marca certificados",
+      "itemCount": 154
+    },
+    {
+      "id": "source-notion",
+      "source": "notion",
+      "name": "Notion Wiki & Diretrizes",
+      "status": "conectado",
+      "accountOrWorkspace": "notion.so/revloop/event-hub",
+      "lastSync": "Hoje às 12:00",
+      "details": "6 Playbooks e políticas de compliance ativas sincronizadas em tempo real",
+      "itemCount": 6
+    }
+  ],
+  "calendarEvents": [
+    {
+      "conflictingEventTitle": "Revloop All-Hands Geral Q4 & Apresentação de Metas",
+      "organizer": "diretoria@revloop.com.br",
+      "start": "2026-10-15T14:00:00",
+      "end": "2026-10-15T18:00:00",
+      "location": "Auditório Principal / Zoom Global",
+      "severity": "alto",
+      "description": "Evento mandatório para toda a empresa. Não agendar eventos externos concorrentes."
+    },
+    {
+      "conflictingEventTitle": "SaaS Transformation Summit Brasil (Estande Revloop)",
+      "organizer": "marketing@revloop.com.br",
+      "start": "2026-11-04T08:00:00",
+      "end": "2026-11-05T20:00:00",
+      "location": "Transamérica Expo Center, SP",
+      "severity": "medio",
+      "description": "Time de Vendas e Marketing estará dedicado ao estande oficial do Revloop."
+    },
+    {
+      "conflictingEventTitle": "Fechamento Fiscal & Revisão de Orçamento Anual",
+      "organizer": "financeiro@revloop.com.br",
+      "start": "2026-11-27T09:00:00",
+      "end": "2026-11-27T17:00:00",
+      "location": "Revloop HQ - Sala Executiva",
+      "severity": "baixo",
+      "description": "Aprovações financeiras acima de R$ 50k exigem validação prévia até esta data."
+    }
+  ],
+  "workspaceUsers": [
+    {
+      "id": "user-jesse",
+      "name": "Jesse Ribeiro",
+      "email": "jr.jesse@revloop.com.br",
+      "role": "Coordenador de Eventos & Tech",
+      "department": "Operações & Tecnologia",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-clara",
+      "name": "Clara Silveira",
+      "email": "clara.silveira@revloop.com.br",
+      "role": "Head de Operações & Eventos",
+      "department": "Operações",
+      "avatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-lucas",
+      "name": "Lucas Mendes",
+      "email": "lucas.mendes@revloop.com.br",
+      "role": "VP de Marketing & Growth",
+      "department": "Marketing",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-mariana",
+      "name": "Mariana Duarte",
+      "email": "mariana.duarte@revloop.com.br",
+      "role": "People & Culture Lead",
+      "department": "Recursos Humanos",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-thiago",
+      "name": "Thiago Rocha",
+      "email": "thiago.rocha@revloop.com.br",
+      "role": "Enterprise Sales Director",
+      "department": "Vendas Enterprise",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80"
+    },
+    {
+      "id": "user-beatriz",
+      "name": "Beatriz Fonseca",
+      "email": "beatriz.fonseca@revloop.com.br",
+      "role": "Product Marketing Manager",
+      "department": "Marketing de Produto",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1790895234586",
+      "timestamp": "2026-10-01T22:53:54.586Z",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "action": "EVENT_DUPLICATED",
+      "targetId": "evt-muq4s6xm-qqio",
+      "authorized": true,
+      "details": "Duplicado a partir de evt-2026-006"
+    },
+    {
+      "id": "log-1790895229318",
+      "timestamp": "2026-10-01T22:53:49.317Z",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "action": "EVENT_REVIEW_ACCEPT",
+      "targetId": "evt-2026-002",
+      "authorized": true,
+      "details": "Ação accept realizada com sucesso por Lucas Mendes"
+    },
+    {
+      "id": "log-1790895218180",
+      "timestamp": "2026-10-01T22:53:38.180Z",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "action": "EVENT_REVIEW_UNAUTHORIZED_ATTEMPT",
+      "targetId": "evt-2026-002",
+      "authorized": false,
+      "details": "Tentativa negada: Jesse Ribeiro (jr.jesse@revloop.com.br) tentou accept a solicitação pertencente ao responsável Lucas Mendes (lucas.mendes@revloop.com.br)."
+    },
+    {
+      "id": "log-001",
+      "timestamp": "2026-10-01T14:20:00Z",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "action": "POLICY_VERIFY",
+      "targetId": "evt-2026-001",
+      "authorized": true,
+      "details": "Verificação do item de compliance LGPD realizada"
+    }
+  ],
+  "auditRecords": [
+    {
+      "id": "audit-1790898338115-51ep",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-10-01T23:45:38.115Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Head de Operações & Eventos",
+      "actorAvatar": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Nota Formal do Responsável",
+      "fieldKey": "comments",
+      "oldValue": "(Inexistente)",
+      "newValue": "Auditoria de segurança e alvará de funcionamento homologados...",
+      "changeType": "comentario",
+      "changeSummary": "Clara Silveira (Head de Operações & Eventos) registrou comentário no histórico de comunicação do evento.",
+      "d1TxHash": "d1_sha256_muq6mpmr_gzj60kg",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-muq4s6xm-qqio-0",
+      "eventId": "evt-muq4s6xm-qqio",
+      "timestamp": "2026-10-01T22:53:54.586Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Solicitante do Workspace",
+      "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Registro Inicial do Evento",
+      "fieldKey": "event_creation",
+      "oldValue": "(Inexistente)",
+      "newValue": "Cadastrado como 'solicitado' com orçamento de R$ 12.000",
+      "changeType": "criacao",
+      "changeSummary": "Solicitação criada no hub para avaliação de Jesse Ribeiro.",
+      "d1TxHash": "d1_sha256_genesis_evtmuq4s6xmqqio",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-muq4s6xm-qqio-res-0",
+      "eventId": "evt-muq4s6xm-qqio",
+      "timestamp": "2026-10-01T22:53:54.586Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Fotos e Gravações em Alta Resolução",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://drive.google.com/corp/revloop/meetup-14-midia",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Fotos e Gravações em Alta Resolução' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evtmuq4s6xmqqio_0",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-muq4s6xm-qqio-res-1",
+      "eventId": "evt-muq4s6xm-qqio",
+      "timestamp": "2026-10-01T22:53:54.586Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Canal #meetups-revloop-sp",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "SLACK: https://revloop.slack.com/archives/C07MEETUP",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Canal #meetups-revloop-sp' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evtmuq4s6xmqqio_1",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-muq4s6xm-qqio-res-2",
+      "eventId": "evt-muq4s6xm-qqio",
+      "timestamp": "2026-10-01T22:53:54.586Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Playbook: Organização de Meetups Técnicos",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "NOTION: https://notion.so/revloop/playbook-meetups-e-comunidades",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Playbook: Organização de Meetups Técnicos' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evtmuq4s6xmqqio_2",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-002-pol-5",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-10-01T22:53:49.317Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Comunicação Exclusiva 1-to-1",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Comunicação Exclusiva 1-to-1' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026002_5",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-004-task-0",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-10-01T15:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Garantir legendagem automática ativa no Zoom e transcrição pós-evento",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Garantir legendagem automática ativa no Zoom e transcrição pós-evento' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026004_0",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-pol-2",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-10-01T14:30:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Política de Brindes Sustentáveis Revloop",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Política de Brindes Sustentáveis Revloop' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026001_2",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-pol-4",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-10-01T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Compliance LGPD & Termo de Consentimento",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Compliance LGPD & Termo de Consentimento' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026001_4",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-003-pol-3",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-10-01T14:30:00Z",
+      "actorName": "Mariana Duarte",
+      "actorEmail": "mariana.duarte@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Buffet de Coffee Break Inclusivo",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Buffet de Coffee Break Inclusivo' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026003_3",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-task-0",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-10-01T14:20:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Auditoria de Acessibilidade Física das Rampas e Auditório do WTC",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Auditoria de Acessibilidade Física das Rampas e Auditório do WTC' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026001_0",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-task-1",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-10-01T14:20:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Revisão dos Termos de Imagem e LGPD no Formulário de Credenciamento",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Revisão dos Termos de Imagem e LGPD no Formulário de Credenciamento' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026001_1",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-task-3",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-10-01T14:20:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Contratação de Intérprete de Libras para o Palco Principal",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Contratação de Intérprete de Libras para o Palco Principal' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026001_3",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-003-task-0",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-10-01T11:10:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Configurar canal exclusivo no Discord para interação remota",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Configurar canal exclusivo no Discord para interação remota' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026003_0",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-005-task-0",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-10-01T08:00:00Z",
+      "actorName": "Mariana Duarte",
+      "actorEmail": "mariana.duarte@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Coleta de dados médicos, emergências e restrições alimentares",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Coleta de dados médicos, emergências e restrições alimentares' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026005_0",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-005-task-1",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-10-01T08:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Produção do kit especial do colaborador (mochila térmica e corta-vento)",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Produção do kit especial do colaborador (mochila térmica e corta-vento)' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026005_1",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-002-pol-1",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-09-30T14:30:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Acessibilidade do Espaço Privativo",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Acessibilidade do Espaço Privativo' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026002_1",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-002-pol-2",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-09-30T14:30:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Lembrança Institucional Conforme Política",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Lembrança Institucional Conforme Política' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026002_2",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-002-pol-4",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-09-30T14:30:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Não divulgação de lista de convidados sem anuência",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Não divulgação de lista de convidados sem anuência' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026002_4",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-003-pol-2",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-09-30T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "mariana.duarte@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Kits Dev Sustentáveis",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Kits Dev Sustentáveis' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026003_2",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-002-1",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-09-29T18:00:00.000Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Responsável Designado",
+      "actorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Status da Solicitação",
+      "fieldKey": "status",
+      "oldValue": "solicitado",
+      "newValue": "aprovado",
+      "changeType": "aprovacao",
+      "changeSummary": "Aprovado pelo responsável designado Lucas Mendes. Alçada de R$ 22.000 liberada para execução.",
+      "d1TxHash": "d1_sha256_tx_evt2026002_appr",
+      "ipOrigin": "Revloop Auth Gateway (10.0.4.15)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-002-0",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-09-29T16:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Solicitante do Workspace",
+      "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Registro Inicial do Evento",
+      "fieldKey": "event_creation",
+      "oldValue": "(Inexistente)",
+      "newValue": "Cadastrado como 'aprovado' com orçamento de R$ 22.000",
+      "changeType": "criacao",
+      "changeSummary": "Solicitação criada no hub para avaliação de Lucas Mendes.",
+      "d1TxHash": "d1_sha256_genesis_evt2026002",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-002-res-0",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-09-29T16:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Lista de Contas Alvo & VIPs Convidados",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://docs.google.com/spreadsheets/d/revloop-jantar-q4-vips",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Lista de Contas Alvo & VIPs Convidados' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026002_0",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-002-res-1",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-09-29T16:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Canal #dinner-executivos-q4",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "SLACK: https://revloop.slack.com/archives/C09DINNERQ4",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Canal #dinner-executivos-q4' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026002_1",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-002-res-2",
+      "eventId": "evt-2026-002",
+      "timestamp": "2026-09-29T16:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Playbook: Jantar com Clientes C-Level",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "NOTION: https://notion.so/revloop/playbook-jantar-com-clientes",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Playbook: Jantar com Clientes C-Level' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026002_2",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-003-pol-4",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-09-29T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "mariana.duarte@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: LGPD para Dados Curriculares de Candidatos",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'LGPD para Dados Curriculares de Candidatos' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026003_4",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-pol-1",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-28T14:30:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Acessibilidade Arquitetônica e Digital",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Acessibilidade Arquitetônica e Digital' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026001_1",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-003-pol-0",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-09-28T14:30:00Z",
+      "actorName": "Mariana Duarte",
+      "actorEmail": "mariana.duarte@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Aprovação da Liderança de Pessoas",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Aprovação da Liderança de Pessoas' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026003_0",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-003-pol-1",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-09-28T14:30:00Z",
+      "actorName": "Mariana Duarte",
+      "actorEmail": "mariana.duarte@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Ambiente Inclusivo e Neurodiverso",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Ambiente Inclusivo e Neurodiverso' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026003_1",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-004-pol-1",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-28T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Acessibilidade de Conteúdo e Legendas",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Acessibilidade de Conteúdo e Legendas' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026004_1",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-pol-3",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-26T14:30:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Homologação e Certidões de Fornecedores",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Homologação e Certidões de Fornecedores' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026001_3",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-004-pol-3",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-25T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Licença e Segurança da Plataforma de Transmissão",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Licença e Segurança da Plataforma de Transmissão' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026004_3",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-003-0",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-09-25T14:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Solicitante do Workspace",
+      "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Registro Inicial do Evento",
+      "fieldKey": "event_creation",
+      "oldValue": "(Inexistente)",
+      "newValue": "Cadastrado como 'em revisao' com orçamento de R$ 16.000",
+      "changeType": "criacao",
+      "changeSummary": "Solicitação criada no hub para avaliação de Mariana Duarte.",
+      "d1TxHash": "d1_sha256_genesis_evt2026003",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-003-res-0",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-09-25T14:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Roteiro de Desafios Técnicos & Dinâmica",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://docs.google.com/document/d/revloop-recruiting-challenges",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Roteiro de Desafios Técnicos & Dinâmica' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026003_0",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-003-res-1",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-09-25T14:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Canal #recruiting-day-tech-2026",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "SLACK: https://revloop.slack.com/archives/C08TECHREC",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Canal #recruiting-day-tech-2026' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026003_1",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-003-res-2",
+      "eventId": "evt-2026-003",
+      "timestamp": "2026-09-25T14:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Playbook: Eventos de Recrutamento & D&I",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "NOTION: https://notion.so/revloop/playbook-eventos-de-recrutamento",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Playbook: Eventos de Recrutamento & D&I' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026003_2",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-004-pol-4",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-24T14:30:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Termo de Consentimento na Landing Page",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Termo de Consentimento na Landing Page' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026004_4",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-004-pol-2",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-22T14:30:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Brinde Digital / E-book Exclusivo",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Brinde Digital / E-book Exclusivo' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026004_2",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-pol-0",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-20T14:30:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Alçada Financeira Aprovada pelo VP/Diretoria",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Alçada Financeira Aprovada pelo VP/Diretoria' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026001_0",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-004-pol-0",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-20T14:30:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Aprovação de Orçamento de Mídia Paga",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Aprovação de Orçamento de Mídia Paga' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026004_0",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-004-1",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-18T12:00:00.000Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Responsável Designado",
+      "actorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Status da Solicitação",
+      "fieldKey": "status",
+      "oldValue": "solicitado",
+      "newValue": "aprovado",
+      "changeType": "aprovacao",
+      "changeSummary": "Aprovado pelo responsável designado Lucas Mendes. Alçada de R$ 6.500 liberada para execução.",
+      "d1TxHash": "d1_sha256_tx_evt2026004_appr",
+      "ipOrigin": "Revloop Auth Gateway (10.0.4.15)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-004-0",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-18T10:00:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "beatriz.fonseca@revloop.com.br",
+      "actorRole": "Solicitante do Workspace",
+      "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Registro Inicial do Evento",
+      "fieldKey": "event_creation",
+      "oldValue": "(Inexistente)",
+      "newValue": "Cadastrado como 'em planejamento' com orçamento de R$ 6.500",
+      "changeType": "criacao",
+      "changeSummary": "Solicitação criada no hub para avaliação de Lucas Mendes.",
+      "d1TxHash": "d1_sha256_genesis_evt2026004",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-004-res-0",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-18T10:00:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "beatriz.fonseca@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Deck de Apresentação Masterclass (Google Slides)",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://docs.google.com/presentation/d/revloop-webinar-deck",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Deck de Apresentação Masterclass (Google Slides)' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026004_0",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-004-res-1",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-18T10:00:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "beatriz.fonseca@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Canal #webinar-pipeline-q4",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "SLACK: https://revloop.slack.com/archives/C09WEBINAR",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Canal #webinar-pipeline-q4' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026004_1",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-004-res-2",
+      "eventId": "evt-2026-004",
+      "timestamp": "2026-09-18T10:00:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "beatriz.fonseca@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Playbook: Webinars Estratégicos & Conversão B2B",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "NOTION: https://notion.so/revloop/playbook-webinars-estrategicos",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Playbook: Webinars Estratégicos & Conversão B2B' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026004_2",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-005-pol-2",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-09-15T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Kits Duráveis e Funcionais",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Kits Duráveis e Funcionais' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026005_2",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-005-pol-4",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-09-12T14:30:00Z",
+      "actorName": "Mariana Duarte",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Termo de Viagem e Autorização de Registro",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Termo de Viagem e Autorização de Registro' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026005_4",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-1",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-12T12:00:00.000Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Responsável Designado",
+      "actorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Status da Solicitação",
+      "fieldKey": "status",
+      "oldValue": "solicitado",
+      "newValue": "aprovado",
+      "changeType": "aprovacao",
+      "changeSummary": "Aprovado pelo responsável designado Clara Silveira. Alçada de R$ 85.000 liberada para execução.",
+      "d1TxHash": "d1_sha256_tx_evt2026001_appr",
+      "ipOrigin": "Revloop Auth Gateway (10.0.4.15)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-0",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-12T10:00:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Solicitante do Workspace",
+      "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Registro Inicial do Evento",
+      "fieldKey": "event_creation",
+      "oldValue": "(Inexistente)",
+      "newValue": "Cadastrado como 'em planejamento' com orçamento de R$ 85.000",
+      "changeType": "criacao",
+      "changeSummary": "Solicitação criada no hub para avaliação de Clara Silveira.",
+      "d1TxHash": "d1_sha256_genesis_evt2026001",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-001-res-0",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-12T10:00:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Briefing Executivo & Matriz de Patrocínio",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://docs.google.com/document/d/revloop-summit-briefing",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Briefing Executivo & Matriz de Patrocínio' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026001_0",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-001-res-1",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-12T10:00:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Planilha de Orçamento Consolidado & Custos Reais",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://docs.google.com/spreadsheets/d/revloop-summit-orcamento",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Planilha de Orçamento Consolidado & Custos Reais' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026001_1",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-001-res-2",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-12T10:00:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Canal #summit-revloop-2026 no Slack",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "SLACK: https://revloop.slack.com/archives/C08SUMMIT26",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Canal #summit-revloop-2026 no Slack' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026001_2",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-001-res-3",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-12T10:00:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Playbook Revloop: Guia de Grandes Conferências",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "NOTION: https://notion.so/revloop/playbook-grandes-conferencias-v3",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Playbook Revloop: Guia de Grandes Conferências' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026001_3",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-001-res-4",
+      "eventId": "evt-2026-001",
+      "timestamp": "2026-09-12T10:00:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Google Agenda: Summit Revloop 2026 (WTC)",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "CALENDAR: https://calendar.google.com/event?eid=summit2026wtc",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Google Agenda: Summit Revloop 2026 (WTC)' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026001_4",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-005-pol-1",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-09-10T14:30:00Z",
+      "actorName": "Mariana Duarte",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Acessibilidade em Todas as Atividades",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Acessibilidade em Todas as Atividades' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026005_1",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-005-pol-3",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-08-25T14:30:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Seguro de Responsabilidade Civil & Saúde do Resort",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Seguro de Responsabilidade Civil & Saúde do Resort' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026005_3",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-task-0",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-08-22T22:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Compra de chopp artesanal e pizzas para networking",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Compra de chopp artesanal e pizzas para networking' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026006_0",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-task-1",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-08-22T22:00:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "beatriz.fonseca@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Publicação dos vídeos das palestras no YouTube do Revloop",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Publicação dos vídeos das palestras no YouTube do Revloop' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026006_1",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-005-pol-0",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-08-20T14:30:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Alçada Diretoria Executiva & CEO",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Alçada Diretoria Executiva & CEO' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026005_0",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-005-1",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-08-15T11:00:00.000Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Responsável Designado",
+      "actorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Status da Solicitação",
+      "fieldKey": "status",
+      "oldValue": "solicitado",
+      "newValue": "aprovado",
+      "changeType": "aprovacao",
+      "changeSummary": "Aprovado pelo responsável designado Clara Silveira. Alçada de R$ 210.000 liberada para execução.",
+      "d1TxHash": "d1_sha256_tx_evt2026005_appr",
+      "ipOrigin": "Revloop Auth Gateway (10.0.4.15)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-005-0",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-08-15T09:00:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Solicitante do Workspace",
+      "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Registro Inicial do Evento",
+      "fieldKey": "event_creation",
+      "oldValue": "(Inexistente)",
+      "newValue": "Cadastrado como 'em planejamento' com orçamento de R$ 210.000",
+      "changeType": "criacao",
+      "changeSummary": "Solicitação criada no hub para avaliação de Clara Silveira.",
+      "d1TxHash": "d1_sha256_genesis_evt2026005",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-005-res-0",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-08-15T09:00:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Planilha Geral de Logística de Voos e Quartos",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://docs.google.com/spreadsheets/d/revloop-offsite-logistica",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Planilha Geral de Logística de Voos e Quartos' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026005_0",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-005-res-1",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-08-15T09:00:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Canal #offsite-revloop-floripa-2026",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "SLACK: https://revloop.slack.com/archives/C09FLORIPA",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Canal #offsite-revloop-floripa-2026' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026005_1",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-005-res-2",
+      "eventId": "evt-2026-005",
+      "timestamp": "2026-08-15T09:00:00Z",
+      "actorName": "Clara Silveira",
+      "actorEmail": "clara.silveira@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Playbook: Encontros de Equipe & Offsites Revloop",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "NOTION: https://notion.so/revloop/playbook-encontros-de-equipe-offsite",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Playbook: Encontros de Equipe & Offsites Revloop' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026005_2",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-006-pol-3",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-08-10T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Nota Fiscal e Checagem Sanitária",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Nota Fiscal e Checagem Sanitária' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026006_3",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-pol-5",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-08-01T14:30:00Z",
+      "actorName": "Beatriz Fonseca",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Divulgação nas redes do Cubo e Revloop",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Divulgação nas redes do Cubo e Revloop' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026006_5",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-pol-4",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-25T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Opt-in de Imagem no Sympla/Eventbrite",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Opt-in de Imagem no Sympla/Eventbrite' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026006_4",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-pol-2",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-18T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Stickers e Ecobags Recicladas",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Stickers e Ecobags Recicladas' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026006_2",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-pol-1",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-16T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Local 100% Acessível no Cubo",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Local 100% Acessível no Cubo' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026006_1",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-task-0",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-07-16T12:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Executor da Tarefa",
+      "fieldName": "Tarefa Operacional: Follow-up personalizado de vendas com cada C-Level em até 48h",
+      "fieldKey": "tasks",
+      "oldValue": "Pendente",
+      "newValue": "Concluída",
+      "changeType": "tarefa",
+      "changeSummary": "Tarefa operacional 'Follow-up personalizado de vendas com cada C-Level em até 48h' finalizada e registrada no banco de dados.",
+      "d1TxHash": "d1_sha256_task_evt2026007_0",
+      "ipOrigin": "Revloop Task Engine (10.0.4.18)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-pol-0",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-15T14:30:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Aprovação de Alçada de Meetup",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Aprovação de Alçada de Meetup' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026006_0",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-pol-4",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-07-15T14:30:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Sigilo de Conversas Estratégicas",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Sigilo de Conversas Estratégicas' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026007_4",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-pol-3",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-07-10T14:30:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Contrato e NF-e do Restaurante",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Contrato e NF-e do Restaurante' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026007_3",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-1",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-10T12:00:00.000Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Responsável Designado",
+      "actorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Status da Solicitação",
+      "fieldKey": "status",
+      "oldValue": "solicitado",
+      "newValue": "aprovado",
+      "changeType": "aprovacao",
+      "changeSummary": "Aprovado pelo responsável designado Jesse Ribeiro. Alçada de R$ 12.000 liberada para execução.",
+      "d1TxHash": "d1_sha256_tx_evt2026006_appr",
+      "ipOrigin": "Revloop Auth Gateway (10.0.4.15)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-0",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-10T10:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Solicitante do Workspace",
+      "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Registro Inicial do Evento",
+      "fieldKey": "event_creation",
+      "oldValue": "(Inexistente)",
+      "newValue": "Cadastrado como 'concluido' com orçamento de R$ 12.000",
+      "changeType": "criacao",
+      "changeSummary": "Solicitação criada no hub para avaliação de Jesse Ribeiro.",
+      "d1TxHash": "d1_sha256_genesis_evt2026006",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-006-res-0",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-10T10:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Fotos e Gravações em Alta Resolução",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://drive.google.com/corp/revloop/meetup-14-midia",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Fotos e Gravações em Alta Resolução' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026006_0",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-006-res-1",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-10T10:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Canal #meetups-revloop-sp",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "SLACK: https://revloop.slack.com/archives/C07MEETUP",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Canal #meetups-revloop-sp' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026006_1",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-006-res-2",
+      "eventId": "evt-2026-006",
+      "timestamp": "2026-07-10T10:00:00Z",
+      "actorName": "Jesse Ribeiro",
+      "actorEmail": "jr.jesse@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Playbook: Organização de Meetups Técnicos",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "NOTION: https://notion.so/revloop/playbook-meetups-e-comunidades",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Playbook: Organização de Meetups Técnicos' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026006_2",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-007-pol-2",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-07-01T14:30:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Kit Elegante de Boas-Vindas",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Kit Elegante de Boas-Vindas' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026007_2",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-pol-5",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-06-25T14:30:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Convites 1-a-1 via WhatsApp Executivo",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Convites 1-a-1 via WhatsApp Executivo' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026007_5",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-pol-1",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-06-20T14:30:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Acessibilidade de Acesso ao Salão",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Acessibilidade de Acesso ao Salão' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026007_1",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-pol-0",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-06-15T14:30:00Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Auditor de Compliance",
+      "fieldName": "Checklist Compliance: Aprovação Executiva",
+      "fieldKey": "policyChecklist",
+      "oldValue": "Pendente de Auditoria",
+      "newValue": "Auditado & Conforme",
+      "changeType": "compliance",
+      "changeSummary": "Verificação mandatória de compliance 'Aprovação Executiva' auditada e homologada no hub.",
+      "d1TxHash": "d1_sha256_pol_evt2026007_0",
+      "ipOrigin": "Revloop Compliance Hub (10.0.4.22)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-1",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-06-01T12:00:00.000Z",
+      "actorName": "Lucas Mendes",
+      "actorEmail": "lucas.mendes@revloop.com.br",
+      "actorRole": "Responsável Designado",
+      "actorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Status da Solicitação",
+      "fieldKey": "status",
+      "oldValue": "solicitado",
+      "newValue": "aprovado",
+      "changeType": "aprovacao",
+      "changeSummary": "Aprovado pelo responsável designado Lucas Mendes. Alçada de R$ 25.000 liberada para execução.",
+      "d1TxHash": "d1_sha256_tx_evt2026007_appr",
+      "ipOrigin": "Revloop Auth Gateway (10.0.4.15)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-0",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-06-01T10:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Solicitante do Workspace",
+      "actorAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "fieldName": "Registro Inicial do Evento",
+      "fieldKey": "event_creation",
+      "oldValue": "(Inexistente)",
+      "newValue": "Cadastrado como 'concluido' com orçamento de R$ 25.000",
+      "changeType": "criacao",
+      "changeSummary": "Solicitação criada no hub para avaliação de Lucas Mendes.",
+      "d1TxHash": "d1_sha256_genesis_evt2026007",
+      "ipOrigin": "Revloop SP Internal Network (10.0.4.10)",
+      "isSystemAudit": false
+    },
+    {
+      "id": "audit-init-evt-2026-007-res-0",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-06-01T10:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Planilha de Atribuição de Oportunidades & Pipeline",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "DRIVE: https://docs.google.com/spreadsheets/d/revloop-dinner-roi",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Planilha de Atribuição de Oportunidades & Pipeline' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026007_0",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-007-res-1",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-06-01T10:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Canal #dinner-faria-lima-q3",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "SLACK: https://revloop.slack.com/archives/C06DINNER",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Canal #dinner-faria-lima-q3' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026007_1",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    },
+    {
+      "id": "audit-init-evt-2026-007-res-2",
+      "eventId": "evt-2026-007",
+      "timestamp": "2026-06-01T10:00:00Z",
+      "actorName": "Thiago Rocha",
+      "actorEmail": "thiago.rocha@revloop.com.br",
+      "actorRole": "Coordenador",
+      "fieldName": "Recurso Digital Vinculado: Playbook: Jantar com Clientes",
+      "fieldKey": "resources",
+      "oldValue": "(Sem vínculo)",
+      "newValue": "NOTION: https://notion.so/revloop/playbook-jantar-com-clientes",
+      "changeType": "recurso",
+      "changeSummary": "Recurso corporativo 'Playbook: Jantar com Clientes' indexado ao registro do evento.",
+      "d1TxHash": "d1_sha256_res_evt2026007_2",
+      "ipOrigin": "Revloop Drive/Slack Sync (10.0.4.30)",
+      "isSystemAudit": true
+    }
+  ]
+}
